@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sun Jun 07 15:51:42 CST 2015
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1433663502943
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.google.collections\:google-collections\:pom\:${google.collections.version} from/to central (http\://repo.maven.apache.org/maven2)\: Illegal character in path at index 79\: http\://repo.maven.apache.org/maven2/com/google/collections/google-collections/${google.collections.version}/google-collections-${google.collections.version}.pom
