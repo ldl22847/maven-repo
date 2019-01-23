@@ -1,0 +1,35 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Jun 10 12:22:47 CST 2015
+https\://repository.sonatype.org/content/groups/forge/.lastUpdated=1414061647794
+http\://mirrors.ibiblio.org/maven2/.lastUpdated=1414061649755
+http\://repository.codehaus.org/.error=
+https\://repository.jboss.org/nexus/content/repositories/central/.error=
+http\://repository.codehaus.org/.lastUpdated=1414061646170
+https\://repository.jboss.org/nexus/content/repositories/fs-maven2-all/.lastUpdated=1414061645685
+https\://oss.sonatype.org/.error=
+https\://repository.sonatype.org/content/shadows/centralm1/.lastUpdated=1414061649242
+http\://repo.maven.apache.org/maven2/.lastUpdated=1433910167295
+http\://repo.spring.io/release/.lastUpdated=1414061642548
+https\://repository.jboss.org/nexus/content/groups/developer/.error=
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
+http\://repo.maven.apache.org/maven2/.error=
+default-http\://maven.springframework.org/release/.lastUpdated=1414061641017
+http\://repo2.maven.org/maven2/.lastUpdated=1414061628001
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1414061627661
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1414061628436
+http\://maven.springframework.org/release/.lastUpdated=1414061706675
+https\://repository.sonatype.org/content/shadows/centralm1/.error=
+https\://maven.alfresco.com/nexus/content/groups/public/.error=
+https\://oss.sonatype.org/.lastUpdated=1414061629999
+http\://mirrors.ibiblio.org/maven2/.error=
+https\://repository.apache.org/content/groups/staging/.error=
+https\://repository.jboss.org/nexus/content/groups/developer/.lastUpdated=1414061651071
+https\://repository.jboss.org/nexus/content/repositories/central/.lastUpdated=1414061644579
+https\://repository.jboss.org/nexus/content/repositories/fs-maven2-all/.error=
+https\://repository.apache.org/content/groups/staging/.lastUpdated=1414061643530
+http\://repo.spring.io/release/.error=
+https\://repository.sonatype.org/content/groups/forge/.error=
+http\://repo.springsource.org/release/.lastUpdated=1414061642045
+http\://repo2.maven.org/maven2/.error=
+http\://repo.springsource.org/release/.error=
+http\://maven.springframework.org/release/.error=
