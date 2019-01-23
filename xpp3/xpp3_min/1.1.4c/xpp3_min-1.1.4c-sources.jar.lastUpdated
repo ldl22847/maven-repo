@@ -1,0 +1,10 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Sep 18 08:39:27 CST 2013
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://www.dayatang.com\:8080/nexus/content/groups/public/.lastUpdated=1379464766816
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-web/../lib/.lastUpdated=1379464766801
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://nexus.openkoala.org/nexus/content/groups/Koala-release/.lastUpdated=1379464766972
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-web/../lib/.error=
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.error=Could not transfer artifact xpp3\:xpp3_min\:jar\:sources\:1.1.4c from/to public-repository (http\://www.dayatang.com\:8080/nexus/content/groups/public/)\: null to http\://www.dayatang.com\:8080/nexus/content/groups/public/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c-sources.jar
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact xpp3\:xpp3_min\:jar\:sources\:1.1.4c from/to central (http\://repo.maven.apache.org/maven2)\: Access denied to http\://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c-sources.jar. Error code 407, Proxy Authentication Required
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://repo.maven.apache.org/maven2/.lastUpdated=1379464767019
+http\://nexus.openkoala.org/nexus/content/groups/Koala-release/.error=Could not transfer artifact xpp3\:xpp3_min\:jar\:sources\:1.1.4c from/to koala-release (http\://nexus.openkoala.org/nexus/content/groups/Koala-release/)\: Remotely Closed [id\: 0x650e938c, /10.108.67.42\:52045 \:> /10.101.1.6\:80]
