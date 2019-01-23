@@ -1,7 +1,0 @@
-#NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Apr 05 09:06:33 CST 2012
-file\://D\:\\SCMS\\scms_new\\scms-web/../lib/.error=
-default-http\://10.103.118.60\:8081/nexus/content/groups/public/.lastUpdated=1333587993339
-http\://10.103.118.60\:8081/nexus/content/groups/public/.error=Could not transfer artifact xml-apis\:xml-apis\:pom\:1.3.02 from/to internal-repository (http\://10.103.118.60\:8081/nexus/content/groups/public/)\: Connection refused\: no further information
-file\://D\:\\SCMS\\scms_new\\scms-web/../lib/.lastUpdated=1333587989252
-http\://www.dayatang.com\:8080/nexus/content/groups/public/.lastUpdated=1333587993399

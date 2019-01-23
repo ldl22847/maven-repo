@@ -1,8 +1,0 @@
-#NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Mon Dec 21 14:26:20 CST 2015
-jsr305-1.3.9.jar>central=
-jsr305-1.3.9.pom>central=
-jsr305-1.3.9.jar>internal-repository=
-jsr305-1.3.9.jar>anymeeting-repo=
-jsr305-1.3.9.pom>internal-repository=
-jsr305-1.3.9.pom>anymeeting-repo=
