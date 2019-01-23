@@ -1,0 +1,11 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jul 27 11:10:53 CST 2018
+http\://183.56.130.248\:8081/nexus/content/groups/anymeeting-group/.lastUpdated=1532661053529
+http\://maven.oschina.net/content/groups/public/.error=Could not transfer artifact com.google.code.gson\:gson\:pom\:2.3 from/to CN (http\://maven.oschina.net/content/groups/public/)\: connect timed out
+https\://oss.sonatype.org/content/groups/public/.lastUpdated=1476845108180
+http\://132.126.2.216\:8080/nexus/content/repositories/eshore/.lastUpdated=1476845103219
+http\://132.126.2.216\:8080/nexus/content/repositories/eshore/.error=
+http\://132.126.2.216\:8080/nexus/content/repositories/thirdparty/.lastUpdated=1476845103297
+http\://183.56.130.248\:8081/nexus/content/groups/video-group/.lastUpdated=1480995992879
+@default-http\://maven.oschina.net/content/groups/public/.lastUpdated=1476845103188
+http\://132.126.2.216\:8080/nexus/content/repositories/thirdparty/.error=

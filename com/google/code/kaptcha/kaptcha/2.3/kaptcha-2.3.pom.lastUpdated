@@ -1,0 +1,30 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Jul 17 17:02:39 CST 2018
+default-https\://repository.apache.org/content/groups/staging/.lastUpdated=1414061576709
+https\://repository.sonatype.org/content/groups/forge/.lastUpdated=1414061581823
+http\://repository.codehaus.org/.error=
+https\://repository.jboss.org/nexus/content/repositories/central/.error=
+http\://repository.codehaus.org/.lastUpdated=1414061580122
+https\://repository.jboss.org/nexus/content/repositories/fs-maven2-all/.lastUpdated=1414061578863
+https\://oss.sonatype.org/.error=
+default-http\://maven.oschina.net/content/groups/public/.lastUpdated=1529051343235
+http\://183.56.130.248\:8081/nexus/content/groups/anymeeting-group/.lastUpdated=1450679165888
+http\://repo.maven.apache.org/maven2/.lastUpdated=1531818159329
+http\://repo.spring.io/release/.lastUpdated=1414061566608
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
+http\://repo.maven.apache.org/maven2/.error=
+default-http\://maven.springframework.org/release/.lastUpdated=1414061562776
+http\://repo2.maven.org/maven2/.lastUpdated=1414061550131
+http\://maven.oschina.net/content/groups/public/.error=Could not transfer artifact com.google.code.kaptcha\:kaptcha\:pom\:2.3 from/to osc (http\://maven.oschina.net/content/groups/public/)\: java.net.ConnectException\: Connection refused\: no further information to http\://maven.oschina.net/content/groups/public/com/google/code/kaptcha/kaptcha/2.3/kaptcha-2.3.pom
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1414061549613
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1414061550908
+https\://oss.sonatype.org/.lastUpdated=1414061552573
+https\://maven.alfresco.com/nexus/content/groups/public/.error=
+https\://repository.apache.org/content/groups/staging/.error=Could not transfer artifact com.google.code.kaptcha\:kaptcha\:pom\:2.3 from/to apache.nexus (https\://repository.apache.org/content/groups/staging/)\: connection timed out to https\://repository.apache.org/content/groups/staging/com/google/code/kaptcha/kaptcha/2.3/kaptcha-2.3.pom
+https\://repository.jboss.org/nexus/content/repositories/central/.lastUpdated=1414061577759
+http\://repo.spring.io/release/.error=
+https\://repository.jboss.org/nexus/content/repositories/fs-maven2-all/.error=
+http\://repo.springsource.org/release/.lastUpdated=1414061566138
+http\://maven.springframework.org/release/.error=Could not transfer artifact com.google.code.kaptcha\:kaptcha\:pom\:2.3 from/to springsource-maven (http\://maven.springframework.org/release/)\: connection timed out to http\://maven.springframework.org/release/com/google/code/kaptcha/kaptcha/2.3/kaptcha-2.3.pom
+http\://repo.springsource.org/release/.error=
+http\://repo2.maven.org/maven2/.error=
