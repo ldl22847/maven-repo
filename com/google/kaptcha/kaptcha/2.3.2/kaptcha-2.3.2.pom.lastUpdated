@@ -1,0 +1,34 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Oct 23 19:07:30 CST 2014
+https\://repository.sonatype.org/content/groups/forge/.lastUpdated=1414062447129
+http\://mirrors.ibiblio.org/maven2/.lastUpdated=1414062449157
+http\://repository.codehaus.org/.error=
+https\://repository.jboss.org/nexus/content/repositories/central/.error=
+http\://repository.codehaus.org/.lastUpdated=1414062445570
+https\://repository.jboss.org/nexus/content/repositories/fs-maven2-all/.lastUpdated=1414062445086
+https\://oss.sonatype.org/.error=
+https\://repository.sonatype.org/content/shadows/centralm1/.lastUpdated=1414062448625
+http\://repo.maven.apache.org/maven2/.lastUpdated=1414062450905
+http\://repo.spring.io/release/.lastUpdated=1414062441973
+https\://repository.jboss.org/nexus/content/groups/developer/.error=
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
+http\://repo.maven.apache.org/maven2/.error=
+http\://repo2.maven.org/maven2/.lastUpdated=1414062437875
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1414062437539
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1414062438355
+http\://maven.springframework.org/release/.lastUpdated=1414062440495
+https\://repository.sonatype.org/content/shadows/centralm1/.error=
+https\://maven.alfresco.com/nexus/content/groups/public/.error=
+https\://oss.sonatype.org/.lastUpdated=1414062439952
+http\://mirrors.ibiblio.org/maven2/.error=
+https\://repository.apache.org/content/groups/staging/.error=
+https\://repository.jboss.org/nexus/content/groups/developer/.lastUpdated=1414062450568
+https\://repository.jboss.org/nexus/content/repositories/central/.lastUpdated=1414062444110
+https\://repository.jboss.org/nexus/content/repositories/fs-maven2-all/.error=
+https\://repository.apache.org/content/groups/staging/.lastUpdated=1414062443005
+http\://repo.spring.io/release/.error=
+https\://repository.sonatype.org/content/groups/forge/.error=
+http\://repo.springsource.org/release/.lastUpdated=1414062441464
+http\://repo2.maven.org/maven2/.error=
+http\://repo.springsource.org/release/.error=
+http\://maven.springframework.org/release/.error=
