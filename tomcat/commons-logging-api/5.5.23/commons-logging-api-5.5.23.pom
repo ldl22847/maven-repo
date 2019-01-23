@@ -1,6 +1,0 @@
-<project>
-  <modelVersion>4.0.0</modelVersion>
-  <groupId>tomcat</groupId>
-  <artifactId>commons-logging-api</artifactId>
-  <version>5.5.23</version>
-</project>
