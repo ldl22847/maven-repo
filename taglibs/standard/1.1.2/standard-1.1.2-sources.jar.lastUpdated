@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Mar 10 14:12:43 CST 2014
+default-http\://repo.springsource.org/release/.lastUpdated=1394431943459
+https\://repository.apache.org/content/groups/staging/.error=
+https\://repository.apache.org/content/groups/staging/.lastUpdated=1394431953222
+https\://repository.jboss.org/nexus/content/repositories/central/.lastUpdated=1394431963797
+http\://repo.springsource.org/release/.error=Could not transfer artifact taglibs\:standard\:jar\:sources\:1.1.2 from/to springsource-repo (http\://repo.springsource.org/release)\: null to http\://repo.springsource.org/release/taglibs/standard/1.1.2/standard-1.1.2-sources.jar

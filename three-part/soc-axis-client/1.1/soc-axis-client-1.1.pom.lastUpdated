@@ -1,0 +1,22 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Apr 18 15:15:50 CST 2012
+http\://repo1.maven.org/maven2/.lastUpdated=1334729914825
+file\://E\:\\scms\\project\\src\\scms-project\\scms-ear/../lib/=1334711184403
+file\://E\:\\scms\\project\\src\\scms-project\\scms-core/../lib/=1334709235376
+file\://D\:\\SCMS\\scms_project\\scms-external/../lib/.error=
+file\://E\:\\scms\\project\\src\\scms-project\\scms-web/../lib/=1334709723683
+file\://E\:\\scms\\project\\src\\scms-project\\scms-application-impl/../lib/=1334709688411
+file\://E\:\\scms\\project\\src\\scms-project\\scms-external/../lib/=1334709350561
+file\://D\:\\SCMS\\scms_project\\scms-external/../lib/.lastUpdated=1334729909384
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.lastUpdated=1334729914115
+http\://repo1.maven.org/maven2=1334709235597
+file\://E\:\\scms\\project\\src\\scms-project\\scms-auth/../lib/=1334711177617
+http\://www.dayatang.com\:8080/nexus/content/groups/public/=1334709235524
+file\://D\:\\SCMS\\scms_project\\scms-application-impl/../lib/.lastUpdated=1334733350693
+file\://E\:\\scms\\project\\src\\scms-project\\scms-application/../lib/=1334711182968
+http\://10.103.118.60\:8081/nexus/content/groups/public/.error=Could not transfer artifact three-part\:soc-axis-client\:pom\:1.1 from/to internal-repository (http\://10.103.118.60\:8081/nexus/content/groups/public/)\: Connection refused\: no further information
+default-http\://10.103.118.60\:8081/nexus/content/groups/public/.lastUpdated=1334733249731
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.error=
+http\://repo1.maven.org/maven2/.error=
+file\://E\:\\scms\\project\\src\\scms-project\\scms-infrastructure/../lib/=1334709349952
+http\://10.103.118.60\:8081/nexus/content/groups/public/=1334629893959

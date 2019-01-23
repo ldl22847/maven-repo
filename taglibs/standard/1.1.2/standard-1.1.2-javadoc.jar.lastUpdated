@@ -1,0 +1,24 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sun Mar 16 14:30:03 CST 2014
+https\://repository.sonatype.org/content/groups/forge/.lastUpdated=1394951402016
+http\://repository.codehaus.org/.error=
+https\://repository.jboss.org/nexus/content/repositories/central/.error=
+http\://repository.codehaus.org/.lastUpdated=1394723573416
+https\://repository.jboss.org/nexus/content/repositories/fs-maven2-all/.lastUpdated=1394951399995
+https\://repository.sonatype.org/content/shadows/centralm1/.lastUpdated=1394951403931
+http\://repo.maven.apache.org/maven2/.lastUpdated=1394723574190
+http\://repo.spring.io/libs-snapsho/.error=
+http\://repo.spring.io/release/.lastUpdated=1394723567309
+http\://repo.maven.apache.org/maven2/.error=
+default-http\://maven.springframework.org/release/.lastUpdated=1394951397798
+http\://repo.spring.io/libs-snapsho/.lastUpdated=1394951398480
+https\://repository.sonatype.org/content/shadows/centralm1/.error=
+https\://repository.apache.org/content/groups/staging/.error=
+https\://repository.jboss.org/nexus/content/repositories/central/.lastUpdated=1394723572448
+https\://repository.apache.org/content/groups/staging/.lastUpdated=1394723569157
+http\://repo.spring.io/release/.error=
+https\://repository.jboss.org/nexus/content/repositories/fs-maven2-all/.error=
+http\://repo.springsource.org/release/.lastUpdated=1394723566356
+https\://repository.sonatype.org/content/groups/forge/.error=
+http\://repo.springsource.org/release/.error=
+http\://maven.springframework.org/release/.error=Could not transfer artifact taglibs\:standard\:jar\:javadoc\:1.1.2 from/to springsource-maven (http\://maven.springframework.org/release/)\: No response received after 60000
