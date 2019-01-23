@@ -1,0 +1,10 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Mar 21 15:25:37 CST 2013
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://www.dayatang.com\:8080/nexus/content/groups/public/.lastUpdated=1363850737286
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact com.google.gxp\:google-gxp\:jar\:0.2.4-beta from/to central (http\://repo1.maven.org/maven2)\: Access denied to http\://repo1.maven.org/maven2/com/google/gxp/google-gxp/0.2.4-beta/google-gxp-0.2.4-beta.jar. Error code 407, Proxy Authentication Required
+default-http\://10.103.118.60\:8081/nexus/content/groups/public/.lastUpdated=1363850737224
+file\://D\:\\SuPingSpace\\STRUTS_2_3_4_X\\plugins\\gxp/../lib/.lastUpdated=1363850677179
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://repo1.maven.org/maven2/.lastUpdated=1363850737302
+file\://D\:\\SuPingSpace\\STRUTS_2_3_4_X\\plugins\\gxp/../lib/.error=
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.error=Could not transfer artifact com.google.gxp\:google-gxp\:jar\:0.2.4-beta from/to public-repository (http\://www.dayatang.com\:8080/nexus/content/groups/public/)\: Access denied to http\://www.dayatang.com\:8080/nexus/content/groups/public/com/google/gxp/google-gxp/0.2.4-beta/google-gxp-0.2.4-beta.jar. Error code 407, Proxy Authentication Required
+http\://10.103.118.60\:8081/nexus/content/groups/public/.error=Could not transfer artifact com.google.gxp\:google-gxp\:jar\:0.2.4-beta from/to internal-repository (http\://10.103.118.60\:8081/nexus/content/groups/public/)\: No response received after 60000

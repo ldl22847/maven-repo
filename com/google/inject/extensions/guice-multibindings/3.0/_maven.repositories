@@ -1,0 +1,11 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Aug 15 15:42:37 CST 2018
+guice-multibindings-3.0.pom>Public\ Maven\ Repository=
+guice-multibindings-3.0-sources.jar>anymeeting-repo=
+guice-multibindings-3.0.jar>internal-repository=
+guice-multibindings-3.0.pom>internal-repository=
+guice-multibindings-3.0.jar>Public\ Maven\ Repository=
+guice-multibindings-3.0.jar>anymeeting-repo=
+guice-multibindings-3.0.pom>anymeeting-repo=
+guice-multibindings-3.0.jar>central=
+guice-multibindings-3.0.pom>central=

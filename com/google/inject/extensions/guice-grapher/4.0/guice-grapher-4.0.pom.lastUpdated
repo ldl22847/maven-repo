@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Jun 15 15:54:25 CST 2018
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1529049265010
+http\://vaadin.com/nexus/content/repositories/vaadin-addons/.error=
+http\://vaadin.com/nexus/content/repositories/vaadin-addons/.lastUpdated=1529049254456
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.google.inject.extensions\:guice-grapher\:pom\:4.0 from/to central (http\://repo.maven.apache.org/maven2)\: java.net.ConnectException\: connection timed out to http\://repo.maven.apache.org/maven2/com/google/inject/extensions/guice-grapher/4.0/guice-grapher-4.0.pom
