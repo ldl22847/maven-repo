@@ -1,0 +1,34 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Oct 23 18:53:35 CST 2014
+https\://repository.sonatype.org/content/groups/forge/.lastUpdated=1414061602340
+http\://mirrors.ibiblio.org/maven2/.lastUpdated=1414061604552
+http\://repository.codehaus.org/.error=
+https\://repository.jboss.org/nexus/content/repositories/central/.error=
+http\://repository.codehaus.org/.lastUpdated=1414061600704
+https\://repository.jboss.org/nexus/content/repositories/fs-maven2-all/.lastUpdated=1414061600219
+https\://oss.sonatype.org/.error=
+https\://repository.sonatype.org/content/shadows/centralm1/.lastUpdated=1414061603786
+http\://repo.spring.io/release/.lastUpdated=1414061597242
+https\://repository.jboss.org/nexus/content/groups/developer/.error=
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.google.code.kaptcha\:kaptcha\:jar\:2.3 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/com/google/code/kaptcha/kaptcha/2.3/kaptcha-2.3.jar
+http\://repo2.maven.org/maven2/.lastUpdated=1414061584250
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1414061583916
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1414061615911
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1414061584686
+http\://maven.springframework.org/release/.lastUpdated=1414061586649
+https\://repository.sonatype.org/content/shadows/centralm1/.error=
+https\://maven.alfresco.com/nexus/content/groups/public/.error=
+https\://oss.sonatype.org/.lastUpdated=1414061586095
+http\://mirrors.ibiblio.org/maven2/.error=
+https\://repository.apache.org/content/groups/staging/.error=
+https\://repository.jboss.org/nexus/content/groups/developer/.lastUpdated=1414061605872
+https\://repository.jboss.org/nexus/content/repositories/central/.lastUpdated=1414061599200
+https\://repository.jboss.org/nexus/content/repositories/fs-maven2-all/.error=
+https\://repository.apache.org/content/groups/staging/.lastUpdated=1414061598196
+http\://repo.spring.io/release/.error=
+https\://repository.sonatype.org/content/groups/forge/.error=
+http\://repo.springsource.org/release/.lastUpdated=1414061596716
+http\://repo2.maven.org/maven2/.error=
+http\://repo.springsource.org/release/.error=
+http\://maven.springframework.org/release/.error=
