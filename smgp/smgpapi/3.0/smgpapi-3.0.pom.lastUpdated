@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Jul 17 17:02:42 CST 2018
+default-http\://maven.oschina.net/content/groups/public/.lastUpdated=1529051355493
+http\://repo.maven.apache.org/maven2/.lastUpdated=1531818162001
+http\://repo.maven.apache.org/maven2/.error=
+http\://maven.oschina.net/content/groups/public/.error=Could not transfer artifact smgp\:smgpapi\:pom\:3.0 from/to osc (http\://maven.oschina.net/content/groups/public/)\: java.net.ConnectException\: Connection refused\: no further information to http\://maven.oschina.net/content/groups/public/smgp/smgpapi/3.0/smgpapi-3.0.pom
