@@ -1,0 +1,16 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Aug 16 00:40:38 CST 2013
+file\://D\:\\SCMS\\scms_new\\scms-infrastructure/../lib/.lastUpdated=1333587804866
+http\://10.103.118.60\:8081/nexus/content/groups/public/.lastUpdated=1376532591379
+file\://D\:\\SCMS\\scms-ws-support\\web/../lib/.lastUpdated=1376584838849
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://search.maven.org/.lastUpdated=1376532695542
+https\://oss.sonatype.org/content/repositories/central-sync/.error=Could not transfer artifact wsdl4j\:wsdl4j\:pom\:1.5.1 from/to central-sync (https\://oss.sonatype.org/content/repositories/central-sync)\: java.net.ConnectException\: No route to host\: no further information
+file\://D\:\\SCMS\\scms_new\\scms-infrastructure/../lib/.error=
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-https\://oss.sonatype.org/content/repositories/central-sync/.lastUpdated=1376584838849
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://repo1.maven.org/maven2/.lastUpdated=1376584838849
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases/.lastUpdated=1376579735957
+file\://D\:\\SCMS\\scms-ws-support\\web/../lib/.error=
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact wsdl4j\:wsdl4j\:pom\:1.5.1 from/to central (http\://repo1.maven.org/maven2)\: java.net.ConnectException\: No route to host\: no further information
+https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases/.error=Could not transfer artifact wsdl4j\:wsdl4j\:pom\:1.5.1 from/to thirdparty-releases (https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases)\: java.net.ConnectException\: No route to host\: no further information
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.lastUpdated=1333587809007
+http\://search.maven.org/.error=Could not transfer artifact wsdl4j\:wsdl4j\:pom\:1.5.1 from/to all-repository (http\://search.maven.org/)\: Failed to look for file\: http\://search.maven.org/http\://search.maven.org/wsdl4j/wsdl4j/1.5.1/wsdl4j-1.5.1.pom. Return code is\: 407
