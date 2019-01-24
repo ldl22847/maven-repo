@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Copyright 2010 The maven-gcu-plugin Team
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+
+<!--
+    version: $Id: pom.xml 91 2010-10-17 19:50:00Z simone.tripodi $
+-->
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+    <parent>
+        <groupId>org.sonatype.oss</groupId>
+        <artifactId>oss-parent</artifactId>
+        <version>5</version>
+    </parent>
+
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.googlecode.maven-gcu-plugin</groupId>
+    <artifactId>maven-gcu-plugin</artifactId>
+    <packaging>maven-plugin</packaging>
+    <version>1.1</version>
+    <name>Maven GCU plugin</name>
+    <description>Apache Maven plugin for uploading files to Google Code project hosting</description>
+    <url>http://code.google.com/p/${project.artifactId}</url>
+
+    <licenses>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
+    <scm>
+        <url>http://maven-gcu-plugin.googlecode.com/svn/tags/maven-gcu-plugin-1.1</url>
+        <connection>scm:svn:https://maven-gcu-plugin.googlecode.com/svn/tags/maven-gcu-plugin-1.1</connection>
+        <developerConnection>scm:svn:https://maven-gcu-plugin.googlecode.com/svn/tags/maven-gcu-plugin-1.1</developerConnection>
+    </scm>
+
+    <developers>
+        <developer>
+            <id>nathan.maves</id>
+            <name>Nathan Maves</name>
+            <email>nathan.maves@gmail.com</email>
+            <timezone>-7</timezone>
+            <roles>
+                <role>Owner</role>
+                <role>Committer</role>
+            </roles>
+        </developer>
+
+        <developer>
+            <id>simone.tripodi</id>
+            <name>Simone Tripodi</name>
+            <email>simone.tripodi@gmail.com</email>
+            <timezone>+1</timezone>
+            <roles>
+                <role>Committer</role>
+            </roles>
+        </developer>
+    </developers>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>2.3.1</version>
+                <configuration>
+                    <source>${javac.src.version}</source>
+                    <target>${javac.target.version}</target>
+                    <encoding>${project.build.sourceEncoding}</encoding>
+                </configuration>
+            </plugin>
+
+            <plugin>
+                <artifactId>maven-jar-plugin</artifactId>
+                <version>2.3.1</version>
+                <configuration>
+                    <archive>
+                        <manifest>
+                            <addDefaultImplementationEntries>true</addDefaultImplementationEntries>
+                            <addDefaultSpecificationEntries>true</addDefaultSpecificationEntries>
+                        </manifest>
+                        <manifestEntries>
+                            <Implementation-Build>r${buildNumber}</Implementation-Build>
+                            <Implementation-Build-Date>${maven.build.timestamp}</Implementation-Build-Date>
+                            <X-Compile-Source-JDK>${javac.src.version}</X-Compile-Source-JDK>
+                            <X-Compile-Target-JDK>${javac.target.version}</X-Compile-Target-JDK>
+                        </manifestEntries>
+                    </archive>
+                </configuration>
+            </plugin>
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-resources-plugin</artifactId>
+                <version>2.4.3</version>
+                <configuration>
+                    <encoding>${project.build.sourceEncoding}</encoding>
+                </configuration>
+            </plugin>
+        </plugins>
+
+        <resources>
+            <resource>
+                <directory>src/main/resources</directory>
+            </resource>
+
+            <resource>
+                <directory>.</directory>
+                <targetPath>META-INF</targetPath>
+                <includes>
+                    <include>LICENSE</include>
+                    <include>NOTICE</include>
+                </includes>
+            </resource>
+        </resources>
+    </build>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.apache.maven</groupId>
+            <artifactId>maven-plugin-api</artifactId>
+            <version>3.0</version>
+            <scope>provided</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.maven</groupId>
+            <artifactId>maven-project</artifactId>
+            <version>3.0-alpha-2</version>
+            <scope>provided</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.maven</groupId>
+            <artifactId>maven-settings</artifactId>
+            <version>3.0</version>
+            <scope>provided</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>org.sonatype.plexus</groupId>
+            <artifactId>plexus-sec-dispatcher</artifactId>
+            <version>1.4</version>
+            <scope>compile</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>org.codehaus.plexus</groupId>
+            <artifactId>plexus-utils</artifactId>
+            <version>1.5.15</version>
+            <scope>compile</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.maven.shared</groupId>
+            <artifactId>maven-plugin-testing-harness</artifactId>
+            <version>1.0-beta-1</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+
+    <properties>
+        <javac.src.version>1.5</javac.src.version>
+        <javac.target.version>1.5</javac.target.version>
+        <maven.build.timestamp.format>yyyy-MM-dd HH:mm:ssZ</maven.build.timestamp.format>
+    </properties>
+
+    <profiles>
+        <profile>
+            <id>sonatype-oss-release</id>
+            <build>
+                <plugins>
+                    <plugin>
+                        <groupId>org.codehaus.mojo</groupId>
+                        <artifactId>buildnumber-maven-plugin</artifactId>
+                        <version>1.0-beta-4</version>
+                        <executions>
+                            <execution>
+                                <phase>validate</phase>
+                                <goals>
+                                    <goal>create</goal>
+                                </goals>
+                            </execution>
+                        </executions>
+                        <configuration>
+                            <doCheck>true</doCheck>
+                            <doUpdate>true</doUpdate>
+                        </configuration>
+                    </plugin>
+                </plugins>
+            </build>
+        </profile>
+    </profiles>
+
+</project>
