@@ -1,0 +1,8 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Apr 05 10:07:08 CST 2012
+file\://D\:\\SCMS\\scms_new\\scms-web/../lib/.error=
+http\://repo1.maven.org/maven2/.lastUpdated=1333591628908
+default-http\://10.103.118.60\:8081/nexus/content/groups/public/.lastUpdated=1333588131213
+http\://10.103.118.60\:8081/nexus/content/groups/public/.error=Could not transfer artifact relaxngDatatype\:relaxngDatatype\:pom\:20020414 from/to internal-repository (http\://10.103.118.60\:8081/nexus/content/groups/public/)\: Connection refused\: no further information
+file\://D\:\\SCMS\\scms_new\\scms-web/../lib/.lastUpdated=1333588127109
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.lastUpdated=1333588131306

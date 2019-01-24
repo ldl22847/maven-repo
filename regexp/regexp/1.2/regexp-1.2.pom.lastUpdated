@@ -1,0 +1,8 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Feb 18 09:13:06 CST 2016
+file\://D\:\\SCMS\\scms_new\\scms-web/../lib/.error=
+http\://183.56.130.248\:8081/nexus/content/groups/anymeeting-group/.lastUpdated=1455757986162
+default-http\://10.103.118.60\:8081/nexus/content/groups/public/.lastUpdated=1333588108008
+http\://10.103.118.60\:8081/nexus/content/groups/public/.error=Could not transfer artifact regexp\:regexp\:pom\:1.2 from/to internal-repository (http\://10.103.118.60\:8081/nexus/content/groups/public/)\: Connection refused\: no further information
+file\://D\:\\SCMS\\scms_new\\scms-web/../lib/.lastUpdated=1333588103978
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.lastUpdated=1333588108208
