@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.csair.ecg</groupId>
+  <artifactId>teamManage-conf</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130925075848</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.csair.esms</groupId>
+	<artifactId>esms-risk-Project</artifactId>
+	<version>1.0-SNAPSHOT</version>
+	<packaging>pom</packaging>
+	<name>Esms Project</name>
+	<description>ESMS Project.</description>
+
+	<build>
+		<plugins>
+			<!-- maven 编译版本使用jdk1.6 -->
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>2.3</version>
+				<configuration>
+					<source>1.6</source>
+					<target>1.6</target>
+					<encoding>UTF-8</encoding>
+					<!-- add the following args -->
+					<fork>true</fork>
+					<meminitial>128m</meminitial>
+					<maxmem>256m</maxmem>
+					<!--
+						if it doesn't work, try 768M, it seems that UTF-16 consumes more
+						memory
+					-->
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-resources-plugin</artifactId>
+				<version>2.3</version>
+				<configuration>
+					<encoding>UTF-8</encoding>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-eclipse-plugin</artifactId>
+				<version>2.7</version>
+				<configuration>
+					<downloadSources>true</downloadSources>
+					<downloadJavadocs>true</downloadJavadocs>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-surefire-plugin</artifactId>
+				<version>2.5</version>
+				<configuration>
+					<excludes>
+						<exclude>
+							**/SystemSQLTest.java
+						</exclude>
+					</excludes>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-jar-plugin</artifactId>
+				<version>2.3</version>
+				<configuration>
+					<archive>
+						<addMavenDescriptor>false</addMavenDescriptor>
+						<index>false</index>
+						<manifest>
+							<addClasspath>false</addClasspath>
+							<addDefaultImplementationEntries>true
+							</addDefaultImplementationEntries>
+						</manifest>
+						<manifestEntries>
+							<Project-Name>${project.name}</Project-Name>
+							<Project-Version>${project.version}</Project-Version>
+							<Implementation-Build>${buildNumber}</Implementation-Build>
+							<svnrevision>${svnrevision}</svnrevision>
+							<cvstimestamp>${cvstimestamp}</cvstimestamp>
+							<cctimestamp>${cctimestamp}</cctimestamp>
+						</manifestEntries>
+					</archive>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-war-plugin</artifactId>
+				<version>2.0.2</version>
+				<configuration>
+					<archive>
+						<addMavenDescriptor>false</addMavenDescriptor>
+						<index>false</index>
+						<manifest>
+							<addClasspath>false</addClasspath>
+							<addDefaultImplementationEntries>true
+							</addDefaultImplementationEntries>
+						</manifest>
+						<manifestEntries>
+							<Project-Name>${project.name}</Project-Name>
+							<Project-Version>
+								${project.version}
+							</Project-Version>
+							<Implementation-Build>${buildNumber}</Implementation-Build>
+							<svnrevision>${svnrevision}</svnrevision>
+							<cvstimestamp>${cvstimestamp}</cvstimestamp>
+							<cctimestamp>${cctimestamp}</cctimestamp>
+						</manifestEntries>
+					</archive>
+				</configuration>
+			</plugin>
+			
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-ejb-plugin</artifactId>
+				<version>2.3</version>
+			</plugin>
+			
+			<plugin>
+				<groupId>org.codehaus.mojo</groupId>
+				<artifactId>sql-maven-plugin</artifactId>
+				<version>1.1</version>
+				<configuration>
+					<username>${jdbc.username}</username>
+					<password>${jdbc.password}</password>
+					<url>${jdbc.url}</url>
+					<!--
+						You can comment out username/password configurations and have
+						maven to look them up in your settings.xml using ${settingsKey}
+						<settingsKeys>sensibleKey</settingsKeys>
+					-->
+					<!--all executions are ignored if -Dmaven.test.skip=true -->
+					<driver>${jdbc.driverClassName}</driver>
+					<encoding>UTF-8</encoding>
+				</configuration>
+				<executions>
+					<execution>
+						<id>insert-module-product-data</id>
+						<phase>compile</phase>
+						<goals>
+							<goal>execute</goal>
+						</goals>
+						<configuration>
+							<url>${database-url-prefix}${database-name}?characterEncoding=UTF-8
+							</url>
+							<autocommit>true</autocommit>
+							<srcFiles>
+								<srcFile>src/main/resources/dataset/product-data.sql</srcFile>
+							</srcFiles>
+							<skip>${product.sql.skip}</skip>
+						</configuration>
+					</execution>
+					<execution>
+						<id>drop-db-before-test-if-any</id>
+						<phase>process-test-resources</phase>
+						<goals>
+							<goal>execute</goal>
+						</goals>
+						<configuration>
+							<url>${database-url-prefix}</url>
+							<!-- need another database to drop the targeted one -->
+							<autocommit>true</autocommit>
+							<sqlCommand>
+								DROP DATABASE IF EXISTS ${database-name}
+							</sqlCommand>
+							<!-- ignore error when database is not avaiable -->
+							<onError>continue</onError>
+							<skip>${drop.and.create.db.skip}</skip>
+						</configuration>
+					</execution>
+					<execution>
+						<id>create-db</id>
+						<phase>process-test-resources</phase>
+						<goals>
+							<goal>execute</goal>
+						</goals>
+						<configuration>
+							<url>${database-url-prefix}</url>
+							<!-- no transaction -->
+							<autocommit>true</autocommit>
+							<sqlCommand>
+								CREATE DATABASE ${database-name} CHARSET
+								UTF8
+							</sqlCommand>
+							<skip>${drop.and.create.db.skip}</skip>
+						</configuration>
+					</execution>
+					<execution>
+						<id>create-schema</id>
+						<phase>process-test-resources</phase>
+						<goals>
+							<goal>execute</goal>
+						</goals>
+						<configuration>
+							<url>${database-url-prefix}${database-name}?characterEncoding=UTF-8
+							</url>
+							<autocommit>true</autocommit>
+							<srcFiles>
+								<srcFile>${my.global.sql}</srcFile>
+							</srcFiles>
+							<skip>true</skip>
+						</configuration>
+					</execution>
+				</executions>
+				<dependencies>
+					<dependency>
+						<groupId>${jdbc.groupId}</groupId>
+						<artifactId>${jdbc.artifactId}</artifactId>
+						<version>${jdbc.version}</version>
+					</dependency>
+				</dependencies>
+			</plugin>
+
+			<plugin>
+				<groupId>org.codehaus.mojo</groupId>
+				<artifactId>dbunit-maven-plugin</artifactId>
+				<version>1.0-beta-3</version>
+				<configuration>
+					<dataTypeFactoryName>${dbunit.dataTypeFactoryName}
+					</dataTypeFactoryName>
+					<driver>${jdbc.driverClassName}</driver>
+					<username>${jdbc.username}</username>
+					<password>${jdbc.password}</password>
+					<url>${jdbc.url}</url>
+					<type>${dbunit.operation.type}</type>
+					<schema>${dbunit.schema}</schema>
+				</configuration>
+				<executions>
+					<execution>
+						<id>insert-test-data</id>
+						<phase>test-compile</phase>
+						<goals>
+							<goal>operation</goal>
+						</goals>
+						<configuration>
+							<src>src/test/resources/dataset/sample-data.xml</src>
+							<skip>${simple.data.skip}</skip>
+							<format>${simple.data.format}</format>
+						</configuration>
+					</execution>
+					<!--
+						<execution> <id>insert-product-data</id>
+						<phase>test-compile</phase> <goals> <goal>operation</goal>
+						</goals> <configuration>
+						<src>src/main/resources/dataset/product-data.xml</src>
+						<skip>${product.data.skip}</skip>
+						<format>${product.data.format}</format> </configuration>
+						</execution>
+					-->
+				</executions>
+				<dependencies>
+					<dependency>
+						<groupId>${jdbc.groupId}</groupId>
+						<artifactId>${jdbc.artifactId}</artifactId>
+						<version>${jdbc.version}</version>
+					</dependency>
+				</dependencies>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-clean-plugin</artifactId>
+				<version>2.4</version>
+			</plugin>
+		</plugins>
+		<resources>
+			<resource>
+				<directory>src/main/resources</directory>
+				<filtering>true</filtering>
+			</resource>
+		</resources>
+		<testResources>
+			<testResource>
+				<directory>src/main/resources</directory>
+				<filtering>true</filtering>
+			</testResource>
+			<testResource>
+				<directory>src/test/resources</directory>
+				<filtering>true</filtering>
+			</testResource>
+		</testResources>
+	</build>
+
+	<distributionManagement>
+
+		<repository>
+			<id>release</id>
+			<name>release</name>
+			<url>http://10.108.19.123:8080/nexus/content/repositories/release</url>
+		</repository>
+
+		<!-- use the following if you ARE using a snapshot version. -->
+		<snapshotRepository>
+			<id>Snapshots</id>
+			<name>Snapshots</name>
+			<url>http://10.108.19.123:8080/nexus/content/repositories/snapshots</url>
+		</snapshotRepository>
+
+	</distributionManagement>
+
+	<repositories>
+		<repository>
+			<id>internal-repository</id>
+			<url>http://10.108.19.123:8080/nexus/content/groups/public</url>
+			<releases>
+				<enabled>true</enabled>
+				<updatePolicy>never</updatePolicy>
+			</releases>
+			<snapshots>
+				<enabled>true</enabled>
+				<updatePolicy>never</updatePolicy>
+			</snapshots>
+
+		</repository>
+	</repositories>
+
+	<dependencyManagement>
+		<dependencies>
+
+			<dependency>
+				<groupId>com.dayatang.commons</groupId>
+				<artifactId>dayatang-commons-domain</artifactId>
+				<version>${dayatang.commons.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>com.dayatang.commons</groupId>
+				<artifactId>dayatang-commons-db</artifactId>
+				<version>${dayatang.commons.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>com.dayatang.commons</groupId>
+				<artifactId>dayatang-commons-spring</artifactId>
+				<version>${dayatang.commons.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>com.dayatang.commons</groupId>
+				<artifactId>dayatang-commons-i18n</artifactId>
+				<version>${dayatang.commons.version}</version>
+			</dependency>
+
+        <dependency>
+			<groupId>com.dayatang.commons</groupId>
+			<artifactId>dayatang-commons-spring-test</artifactId>
+			<version>${dayatang.commons.version}</version>
+		</dependency>
+
+			<dependency>
+				<groupId>org.springframework.security</groupId>
+				<artifactId>spring-security-core</artifactId>
+				<version>${spring.security.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>org.springframework.security</groupId>
+				<artifactId>spring-security-core-tiger</artifactId>
+				<version>${spring.security.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>org.springframework.security</groupId>
+				<artifactId>spring-security-taglibs</artifactId>
+				<version>${spring.security.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>quartz</groupId>
+				<artifactId>quartz</artifactId>
+				<version>1.6.0</version>
+			</dependency>
+			
+			
+			<dependency>
+				<groupId>javax.persistence</groupId>
+				<artifactId>persistence-api</artifactId>
+				<version>2.0</version>
+			</dependency>
+			
+
+			<dependency>
+				<groupId>javax.servlet</groupId>
+				<artifactId>jstl</artifactId>
+				<version>1.1.2</version>
+			</dependency>
+			<!-- standard-1.1.2.jar -->
+			<dependency>
+				<groupId>taglibs</groupId>
+				<artifactId>standard</artifactId>
+				<version>1.1.2</version>
+			</dependency>
+			<dependency>
+				<groupId>javax.servlet</groupId>
+				<artifactId>servlet-api</artifactId>
+				<version>2.5</version>
+			</dependency>
+			<dependency>
+				<groupId>org.slf4j</groupId>
+				<artifactId>slf4j-api</artifactId>
+				<version>${slf4j.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>org.slf4j</groupId>
+				<artifactId>slf4j-log4j12</artifactId>
+				<version>${slf4j.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>commons-lang</groupId>
+				<artifactId>commons-lang</artifactId>
+				<version>2.4</version>
+			</dependency>
+			<dependency>
+				<groupId>commons-configuration</groupId>
+				<artifactId>commons-configuration</artifactId>
+				<version>1.6</version>
+			</dependency>
+			<dependency>
+				<groupId>commons-collections</groupId>
+				<artifactId>commons-collections</artifactId>
+				<version>3.2.1</version>
+			</dependency>
+			<dependency>
+				<groupId>commons-net</groupId>
+				<artifactId>commons-net</artifactId>
+				<version>2.0</version>
+			</dependency>
+			<dependency>
+				<groupId>org.apache.velocity</groupId>
+				<artifactId>velocity</artifactId>
+				<version>1.6.4</version>
+			</dependency>
+			<dependency>
+				<groupId>org.apache.velocity</groupId>
+				<artifactId>velocity-tools</artifactId>
+				<version>2.0</version>
+			</dependency>
+			<dependency>
+				<groupId>commons-beanutils</groupId>
+				<artifactId>commons-beanutils</artifactId>
+				<version>1.8.2</version>
+			</dependency>
+			<dependency>
+				<groupId>commons-digester</groupId>
+				<artifactId>commons-digester</artifactId>
+				<version>1.7</version>
+				<scope>compile</scope>
+			</dependency>
+			<dependency>
+				<groupId>commons-logging</groupId>
+				<artifactId>commons-logging</artifactId>
+				<version>1.0.2</version>
+				<scope>compile</scope>
+			</dependency>
+			<dependency>
+				<groupId>org.freemarker</groupId>
+				<artifactId>freemarker</artifactId>
+				<version>2.3.16</version>
+			</dependency>
+			<dependency>
+				<groupId>c3p0</groupId>
+				<artifactId>c3p0</artifactId>
+				<version>0.9.1.2</version>
+			</dependency>
+
+			<dependency>
+				<groupId>net.sf.json-lib</groupId>
+				<artifactId>json-lib</artifactId>
+				<classifier>jdk15</classifier>
+				<version>2.2.3</version>
+			</dependency>
+
+			<!-- test -->
+			<dependency>
+				<groupId>junit</groupId>
+				<artifactId>junit</artifactId>
+				<version>4.6</version>
+			</dependency>
+			<dependency>
+				<groupId>org.easymock</groupId>
+				<artifactId>easymock</artifactId>
+				<version>2.3</version>
+			</dependency>
+			<dependency>
+				<groupId>org.easymock</groupId>
+				<artifactId>easymockclassextension</artifactId>
+				<version>2.2.2</version>
+			</dependency>
+			<dependency>
+				<groupId>org.dbunit</groupId>
+				<artifactId>dbunit</artifactId>
+				<version>2.4.7</version>
+			</dependency>
+			<dependency>
+				<groupId>javax.ejb</groupId>
+				<artifactId>ejb-api</artifactId>
+				<version>3.0</version>
+				<scope>provided</scope>
+			</dependency>
+
+			<!-- default -->
+			<dependency>
+				<groupId>proxool</groupId>
+				<artifactId>proxool</artifactId>
+				<version>0.9.1</version>
+			</dependency>
+			<dependency>
+				<groupId>proxool</groupId>
+				<artifactId>proxool-cglib</artifactId>
+				<version>0.9.1</version>
+			</dependency>
+		</dependencies>
+	</dependencyManagement>
+
+	<properties>
+		<h3.hbm2ddl.skip>true</h3.hbm2ddl.skip>
+		<simple.data.skip>true</simple.data.skip>
+		<drop.and.create.db.skip>true</drop.and.create.db.skip>
+		<product.data.skip>true</product.data.skip>
+
+		<!-- Application settings -->
+		<copyright.year>2010</copyright.year>
+		<simple.data.format>xml</simple.data.format>
+		<product.data.format>xml</product.data.format>
+		<product.sql.skip>true</product.sql.skip>
+		<dayatang.commons.version>1.0</dayatang.commons.version>
+		<slf4j.version>1.6.0</slf4j.version>
+		<spring.version>3.0.3.RELEASE</spring.version>
+		<javassist.version>3.11.0.GA</javassist.version>
+		<spring.security.version>3.0.2.RELEASE</spring.security.version>
+		
+		<!-- Application settings end-->
+
+		<!-- Database settings -->
+		<dbunit.dataTypeFactoryName>org.dbunit.ext.mysql.MySqlDataTypeFactory
+		</dbunit.dataTypeFactoryName>
+		<dbunit.operation.type>CLEAN_INSERT</dbunit.operation.type>
+		<hibernate.dialect>org.hibernate.dialect.MySQL5InnoDBDialect
+		</hibernate.dialect>
+		<jdbc.groupId>mysql</jdbc.groupId>
+		<jdbc.artifactId>mysql-connector-java</jdbc.artifactId>
+		<jdbc.version>5.1.12</jdbc.version>
+		<jdbc.driverClassName>com.mysql.jdbc.Driver</jdbc.driverClassName>
+		<database-url-prefix> <![CDATA[jdbc:mysql://10.108.71.247:3306/]]>
+		</database-url-prefix>
+		<database-name> <![CDATA[cmrs]]>
+		</database-name>
+		<jdbc.username>root</jdbc.username>
+		<jdbc.password>1234</jdbc.password>
+		<jdbc.hostName>10.108.71.247</jdbc.hostName>
+		<jdbc.databaseName>cmrs</jdbc.databaseName>
+		<jdbc.url>${database-url-prefix}${database-name}<![CDATA[?createDatabaseIfNotExist=true&amp;characterEncoding=UTF-8&amp;useUnicode=true]]></jdbc.url>
+	</properties>
+
+	<modules>
+    <module>esms-risk-domain</module>
+    <module>esms-risk-external</module>
+    <module>esms-risk-application</module>
+	<module>esms-risk-web</module>
+  </modules>
+</project>

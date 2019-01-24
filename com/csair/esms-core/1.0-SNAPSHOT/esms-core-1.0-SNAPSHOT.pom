@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>com.csair</groupId>
+		<artifactId>esms-project</artifactId>
+		<version>1.0-SNAPSHOT</version>
+	</parent>
+	<artifactId>esms-core</artifactId>
+	<packaging>jar</packaging>
+	<name>ESMS Core Module</name>
+	<description>ESMS Core module</description>
+	<repositories>
+	</repositories>
+	<dependencies>
+		<dependency>
+			<groupId>com.dayatang.commons</groupId>
+			<artifactId>dayatang-commons-spring</artifactId>
+			<version>${dayatang.commons.version}</version>
+		</dependency>
+		
+		<dependency>
+			<groupId>com.dayatang.commons</groupId>
+			<artifactId>dayatang-commons-i18n</artifactId>
+			<version>${dayatang.commons.version}</version>
+		</dependency>
+
+		<!-- for test -->
+		<dependency>
+			<groupId>com.dayatang.commons</groupId>
+			<artifactId>dayatang-commons-spring-test</artifactId>
+			<version>${dayatang.commons.version}</version>
+			<scope>test</scope>
+		</dependency>
+
+	</dependencies>
+	<properties>
+		<h3.hbm2ddl.skip>false</h3.hbm2ddl.skip>
+	</properties>
+</project>
