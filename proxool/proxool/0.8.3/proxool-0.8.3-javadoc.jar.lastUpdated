@@ -1,0 +1,14 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Mar 13 22:38:48 CST 2014
+http\://repo.maven.apache.org/maven2/.lastUpdated=1394721528801
+default-http\://repo.spring.io/release/.lastUpdated=1394721519068
+https\://repository.jboss.org/nexus/content/repositories/central/.lastUpdated=1394721526575
+http\://repo.spring.io/release/.error=Could not transfer artifact proxool\:proxool\:jar\:javadoc\:0.8.3 from/to io.spring.repo.maven.release (http\://repo.spring.io/release/)\: connection timed out to http\://repo.spring.io/release/proxool/proxool/0.8.3/proxool-0.8.3-javadoc.jar
+http\://repo.maven.apache.org/maven2/.error=
+https\://repository.apache.org/content/groups/staging/.error=
+http\://repository.codehaus.org/.lastUpdated=1394721527459
+http\://repo.springsource.org/release/.lastUpdated=1394721508546
+http\://repository.codehaus.org/.error=
+https\://repository.jboss.org/nexus/content/repositories/central/.error=
+http\://repo.springsource.org/release/.error=
+https\://repository.apache.org/content/groups/staging/.lastUpdated=1394721523906

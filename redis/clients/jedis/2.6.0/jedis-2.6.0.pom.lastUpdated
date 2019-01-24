@@ -1,0 +1,20 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Jun 15 16:28:58 CST 2018
+https\://oss.sonatype.org/.error=
+default-http\://maven.oschina.net/content/groups/public/.lastUpdated=1529051338810
+http\://183.56.130.248\:8081/nexus/content/groups/anymeeting-group/.lastUpdated=1450679164788
+http\://repo.maven.apache.org/maven2/.lastUpdated=1433691706338
+http\://repo.spring.io/release/.lastUpdated=1429602973832
+http\://maven.oschina.net/content/groups/public/.error=Could not transfer artifact redis.clients\:jedis\:pom\:2.6.0 from/to osc (http\://maven.oschina.net/content/groups/public/)\: java.net.ConnectException\: Connection refused\: no further information to http\://maven.oschina.net/content/groups/public/redis/clients/jedis/2.6.0/jedis-2.6.0.pom
+http\://repo2.maven.org/maven2/.lastUpdated=1411980598776
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1411980597971
+http\://maven.springframework.org/release/.lastUpdated=1429602970725
+https\://oss.sonatype.org/.lastUpdated=1429602969333
+https\://maven.alfresco.com/nexus/content/groups/public/.error=
+https\://repository.apache.org/content/groups/staging/.error=
+https\://repository.jboss.org/nexus/content/repositories/central/.lastUpdated=1429602976471
+https\://repository.apache.org/content/groups/staging/.lastUpdated=1429602975469
+http\://repo.spring.io/release/.error=
+http\://repo.springsource.org/release/.lastUpdated=1429602972830
+http\://repo.springsource.org/release/.error=
+http\://maven.springframework.org/release/.error=

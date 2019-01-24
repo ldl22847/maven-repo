@@ -1,0 +1,22 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Mar 31 01:09:21 CST 2014
+https\://repository.jboss.org/nexus/content/repositories/central/.error=
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-application-impl/../lib/.lastUpdated=1396196449623
+https\://repository.jboss.org/nexus/content/repositories/fs-maven2-all/.lastUpdated=1396199361170
+http\://repo.maven.apache.org/maven2/.lastUpdated=1396166322957
+http\://repo.spring.io/release/.lastUpdated=1396199355671
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.lastUpdated=1396166322241
+http\://repo.maven.apache.org/maven2/.error=
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project/../lib/.lastUpdated=1396166312122
+http\://maven.springframework.org/release/.lastUpdated=1396199352237
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project/../lib/.error=
+http\://10.103.118.60\:8081/nexus/content/groups/public/.error=Could not transfer artifact proxool\:proxool\:pom\:0.9.1 from/to internal-repository (http\://10.103.118.60\:8081/nexus/content/groups/public/)\: connection timed out to http\://10.103.118.60\:8081/nexus/content/groups/public/proxool/proxool/0.9.1/proxool-0.9.1.pom
+https\://repository.apache.org/content/groups/staging/.error=
+default-http\://10.103.118.60\:8081/nexus/content/groups/public/.lastUpdated=1396166322129
+https\://repository.jboss.org/nexus/content/repositories/central/.lastUpdated=1396199359547
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.error=
+https\://repository.apache.org/content/groups/staging/.lastUpdated=1396199357725
+http\://repo.spring.io/release/.error=
+http\://repo.springsource.org/release/.lastUpdated=1396199354935
+http\://maven.springframework.org/release/.error=
+http\://repo.springsource.org/release/.error=

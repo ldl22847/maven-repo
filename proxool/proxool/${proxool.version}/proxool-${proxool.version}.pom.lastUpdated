@@ -1,0 +1,14 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Mar 11 13:13:56 CST 2014
+default-http\://repo.springsource.org/release/.lastUpdated=1394514836950
+default-http\://repo.spring.io/release/.lastUpdated=1394514836954
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1394514836966
+http\://repo.spring.io/release/.error=Could not transfer artifact proxool\:proxool\:pom\:${proxool.version} from/to io.spring.repo.maven.release (http\://repo.spring.io/release/)\: Illegal character in path at index 47\: http\://repo.spring.io/release/proxool/proxool/${proxool.version}/proxool-${proxool.version}.pom
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact proxool\:proxool\:pom\:${proxool.version} from/to central (http\://repo.maven.apache.org/maven2)\: Illegal character in path at index 53\: http\://repo.maven.apache.org/maven2/proxool/proxool/${proxool.version}/proxool-${proxool.version}.pom
+https\://repository.apache.org/content/groups/staging/.error=Could not transfer artifact proxool\:proxool\:pom\:${proxool.version} from/to apache.nexus (https\://repository.apache.org/content/groups/staging/)\: Illegal character in path at index 70\: https\://repository.apache.org/content/groups/staging/proxool/proxool/${proxool.version}/proxool-${proxool.version}.pom
+http\://repository.codehaus.org/.error=Could not transfer artifact proxool\:proxool\:pom\:${proxool.version} from/to codehaus (http\://repository.codehaus.org/)\: Illegal character in path at index 48\: http\://repository.codehaus.org/proxool/proxool/${proxool.version}/proxool-${proxool.version}.pom
+http\://repo.springsource.org/release/.error=Could not transfer artifact proxool\:proxool\:pom\:${proxool.version} from/to springsource-repo (http\://repo.springsource.org/release)\: Illegal character in path at index 54\: http\://repo.springsource.org/release/proxool/proxool/${proxool.version}/proxool-${proxool.version}.pom
+https\://repository.jboss.org/nexus/content/repositories/central/.error=Could not transfer artifact proxool\:proxool\:pom\:${proxool.version} from/to org.jboss (https\://repository.jboss.org/nexus/content/repositories/central/)\: Illegal character in path at index 81\: https\://repository.jboss.org/nexus/content/repositories/central/proxool/proxool/${proxool.version}/proxool-${proxool.version}.pom
+default-https\://repository.apache.org/content/groups/staging/.lastUpdated=1394514836957
+default-https\://repository.jboss.org/nexus/content/repositories/central/.lastUpdated=1394514836960
+default-http\://repository.codehaus.org/.lastUpdated=1394514836963

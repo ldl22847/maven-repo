@@ -1,0 +1,30 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Mar 14 01:31:23 CST 2014
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://nexus.openkoala.org/nexus/content/groups/Koala-release/.lastUpdated=1380092082891
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-core/../lib/.lastUpdated=1379433340941
+file\://D\:\\SCMS\\scms_new/../lib/.lastUpdated=1333587155550
+https\://repository.jboss.org/nexus/content/repositories/central/.error=
+https\://repository.jboss.org/nexus/content/repositories/fs-maven2-all/.lastUpdated=1394731883133
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-conf/../lib/.error=
+http\://115.28.0.46\:8081/nexus/content/groups/Koala-release/.error=Could not transfer artifact proxool\:proxool-cglib\:pom\:0.9.1 from/to koala-release (http\://115.28.0.46\:8081/nexus/content/groups/Koala-release/)\: Failed to look for file\: http\://115.28.0.46\:8081/nexus/content/groups/Koala-release/http\://115.28.0.46\:8081/nexus/content/groups/Koala-release/proxool/proxool-cglib/0.9.1/proxool-cglib-0.9.1.pom. Return code is\: 407
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://repo.maven.apache.org/maven2/.lastUpdated=1380092082903
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-core/../lib/.error=
+http\://repo.spring.io/release/.lastUpdated=1394731879530
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.lastUpdated=1333587159700
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact proxool\:proxool-cglib\:pom\:0.9.1 from/to central (http\://repo.maven.apache.org/maven2)\: Access denied to http\://repo.maven.apache.org/maven2/proxool/proxool-cglib/0.9.1/proxool-cglib-0.9.1.pom . Status code 403
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://repo1.maven.org/maven2/.lastUpdated=1376873708451
+http\://nexus.openkoala.org/nexus/content/groups/Koala-release/.lastUpdated=1380093419637
+0d596a7c4ced2ada611cf4a074ecda1a5b7862d7@10.101.1.6\:80>default-http\://nexus.openkoala.org/nexus/content/groups/Koala-release/.lastUpdated=1380093283534
+http\://10.103.118.60\:8081/nexus/content/groups/public/.error=Could not transfer artifact proxool\:proxool-cglib\:pom\:0.9.1 from/to internal-repository (http\://10.103.118.60\:8081/nexus/content/groups/public/)\: Connection refused\: no further information
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://115.28.0.46\:8081/nexus/content/groups/Koala-release/.lastUpdated=1376873708451
+https\://repository.apache.org/content/groups/staging/.error=
+default-http\://10.103.118.60\:8081/nexus/content/groups/public/.lastUpdated=1333587159622
+https\://repository.jboss.org/nexus/content/repositories/central/.lastUpdated=1394731881905
+https\://repository.apache.org/content/groups/staging/.lastUpdated=1394731880681
+file\://D\:\\SCMS\\scms_new/../lib/.error=
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-conf/../lib/.lastUpdated=1379433340536
+http\://repo.spring.io/release/.error=
+http\://repo.springsource.org/release/.lastUpdated=1394731878947
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact proxool\:proxool-cglib\:pom\:0.9.1 from/to central (http\://repo1.maven.org/maven2)\: Failed to look for file\: http\://repo1.maven.org/maven2/http\://repo1.maven.org/maven2/proxool/proxool-cglib/0.9.1/proxool-cglib-0.9.1.pom. Return code is\: 407
+http\://repo.springsource.org/release/.error=
+0d596a7c4ced2ada611cf4a074ecda1a5b7862d7@10.101.1.6\:80>default-http\://repo.maven.apache.org/maven2/.lastUpdated=1380093283544

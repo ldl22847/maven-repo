@@ -1,0 +1,17 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Mar 14 01:31:28 CST 2014
+default-http\://10.103.118.60\:8081/nexus/content/groups/public/.lastUpdated=1333587670460
+https\://repository.jboss.org/nexus/content/repositories/fs-maven2-all/.lastUpdated=1394731888512
+file\://D\:\\SCMS\\scms_new/../lib/.error=
+http\://10.103.118.60\:8081/nexus/content/groups/public/.error=Could not transfer artifact proxool\:proxool-cglib\:jar\:0.9.1 from/to internal-repository (http\://10.103.118.60\:8081/nexus/content/groups/public/)\: Connection refused\: no further information
+https\://repository.jboss.org/nexus/content/repositories/central/.lastUpdated=1394731887390
+http\://repo.spring.io/release/.error=
+https\://repository.apache.org/content/groups/staging/.error=
+file\://D\:\\SCMS\\scms_new/../lib/.lastUpdated=1333587416925
+http\://repo.springsource.org/release/.lastUpdated=1394731884519
+http\://nexus.openkoala.org/nexus/content/groups/Koala-release/.lastUpdated=1380093434142
+http\://repo.spring.io/release/.lastUpdated=1394731885105
+http\://repo.springsource.org/release/.error=
+https\://repository.jboss.org/nexus/content/repositories/central/.error=
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.lastUpdated=1333587726193
+https\://repository.apache.org/content/groups/staging/.lastUpdated=1394731886238

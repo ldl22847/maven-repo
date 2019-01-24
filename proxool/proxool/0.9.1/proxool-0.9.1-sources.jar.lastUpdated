@@ -1,0 +1,28 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sun Mar 30 16:01:49 CST 2014
+default-http\://repo.springsource.org/release/.lastUpdated=1396166477162
+default-https\://repository.jboss.org/nexus/content/repositories/central/.lastUpdated=1396166509191
+http\://repository.codehaus.org/.error=Could not transfer artifact proxool\:proxool\:jar\:sources\:0.9.1 from/to codehaus (http\://repository.codehaus.org/)\: The operation was cancelled.
+https\://repository.jboss.org/nexus/content/repositories/central/.error=Could not transfer artifact proxool\:proxool\:jar\:sources\:0.9.1 from/to org.jboss (https\://repository.jboss.org/nexus/content/repositories/central/)\: The operation was cancelled.
+default-http\://repository.codehaus.org/.lastUpdated=1396166509200
+http\://repo.maven.apache.org/maven2/.lastUpdated=1396166154068
+http\://repo.spring.io/release/.lastUpdated=1396166481124
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.lastUpdated=1396166152489
+http\://repo.maven.apache.org/maven2/.error=
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project/../lib/.lastUpdated=1396166141079
+default-https\://repository.jboss.org/nexus/content/repositories/fs-maven2-all/.lastUpdated=1396166509195
+default-https\://repository.sonatype.org/content/shadows/centralm1/.lastUpdated=1396166509208
+http\://maven.springframework.org/release/.lastUpdated=1396166471983
+https\://repository.sonatype.org/content/shadows/centralm1/.error=Could not transfer artifact proxool\:proxool\:jar\:sources\:0.9.1 from/to centralm1 (https\://repository.sonatype.org/content/shadows/centralm1/)\: The operation was cancelled.
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project/../lib/.error=
+http\://10.103.118.60\:8081/nexus/content/groups/public/.error=Could not transfer artifact proxool\:proxool\:jar\:sources\:0.9.1 from/to internal-repository (http\://10.103.118.60\:8081/nexus/content/groups/public/)\: connection timed out to http\://10.103.118.60\:8081/nexus/content/groups/public/proxool/proxool/0.9.1/proxool-0.9.1-sources.jar
+https\://repository.apache.org/content/groups/staging/.error=
+default-http\://10.103.118.60\:8081/nexus/content/groups/public/.lastUpdated=1396166151591
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.error=
+http\://repo.spring.io/release/.error=
+https\://repository.apache.org/content/groups/staging/.lastUpdated=1396166509180
+https\://repository.jboss.org/nexus/content/repositories/fs-maven2-all/.error=Could not transfer artifact proxool\:proxool\:jar\:sources\:0.9.1 from/to fs-maven2-all (https\://repository.jboss.org/nexus/content/repositories/fs-maven2-all/)\: The operation was cancelled.
+default-https\://repository.sonatype.org/content/groups/forge/.lastUpdated=1396166509204
+https\://repository.sonatype.org/content/groups/forge/.error=Could not transfer artifact proxool\:proxool\:jar\:sources\:0.9.1 from/to forge (https\://repository.sonatype.org/content/groups/forge/)\: The operation was cancelled.
+http\://repo.springsource.org/release/.error=Could not transfer artifact proxool\:proxool\:jar\:sources\:0.9.1 from/to springsource-repo (http\://repo.springsource.org/release)\: null to http\://repo.springsource.org/release/proxool/proxool/0.9.1/proxool-0.9.1-sources.jar
+http\://maven.springframework.org/release/.error=

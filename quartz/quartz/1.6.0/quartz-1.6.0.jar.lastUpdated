@@ -1,0 +1,29 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Apr 15 00:23:36 CST 2014
+https\://repository.sonatype.org/content/groups/forge/.lastUpdated=1397492613982
+http\://repository.codehaus.org/.error=
+https\://repository.jboss.org/nexus/content/repositories/central/.error=
+http\://repository.codehaus.org/.lastUpdated=1397492611712
+https\://repository.jboss.org/nexus/content/repositories/fs-maven2-all/.lastUpdated=1397492610986
+https\://repository.sonatype.org/content/shadows/centralm1/.lastUpdated=1397492616086
+http\://repo.maven.apache.org/maven2/.lastUpdated=1397492616682
+http\://repo.spring.io/release/.lastUpdated=1397492603988
+http\://repo.maven.apache.org/maven2/.error=
+http\://repo1.maven.org/maven2=1320295103649
+file\://D\:\\project\\scms\\src\\scms-project\\scms-ear/../lib/=1320295103897
+file\://D\:\\project\\scms\\src\\scms-project\\scms-application-impl/../lib/=1320295103761
+http\://maven.springframework.org/release/.lastUpdated=1397492601355
+https\://repository.sonatype.org/content/shadows/centralm1/.error=
+https\://repository.apache.org/content/groups/staging/.error=
+file\://D\:\\project\\scms\\src\\scms-project\\scms-web/../lib/=1320295099869
+file\://D\:\\project\\scms\\src\\scms-project\\scms-application/../lib/=1320295104011
+https\://repository.jboss.org/nexus/content/repositories/central/.lastUpdated=1397492609353
+https\://repository.jboss.org/nexus/content/repositories/fs-maven2-all/.error=
+http\://repo.spring.io/release/.error=
+https\://repository.apache.org/content/groups/staging/.lastUpdated=1397492607624
+https\://repository.sonatype.org/content/groups/forge/.error=
+file\://D\:\\project\\scms\\src\\scms-project\\scms-core/../lib/=1320295103810
+http\://repo.springsource.org/release/.lastUpdated=1397492603122
+http\://repo.springsource.org/release/.error=
+http\://maven.springframework.org/release/.error=
+http\://10.103.118.60\:8081/nexus/content/groups/public/=1320295099950

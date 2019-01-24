@@ -1,0 +1,18 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Dec 21 14:26:24 CST 2015
+http\://183.56.130.248\:8081/nexus/content/groups/anymeeting-group/.lastUpdated=1450679184648
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1411980600894
+http\://repo.maven.apache.org/maven2/.lastUpdated=1433691787037
+http\://maven.springframework.org/release/.error=
+https\://repository.jboss.org/nexus/content/repositories/central/.lastUpdated=1429602996617
+https\://maven.alfresco.com/nexus/content/groups/public/.error=
+http\://repo.spring.io/release/.error=
+http\://maven.springframework.org/release/.lastUpdated=1429602988800
+https\://repository.apache.org/content/groups/staging/.error=
+http\://repo2.maven.org/maven2/.lastUpdated=1411980603244
+http\://repo.springsource.org/release/.lastUpdated=1429602991448
+http\://repo.spring.io/release/.lastUpdated=1429602993088
+http\://repo.springsource.org/release/.error=
+https\://oss.sonatype.org/.error=
+https\://oss.sonatype.org/.lastUpdated=1429602987255
+https\://repository.apache.org/content/groups/staging/.lastUpdated=1429602995038
