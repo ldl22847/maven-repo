@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Nov 05 10:47:18 CST 2014
+http\://repo.maven.apache.org/maven2/.lastUpdated=1415155638472
+default-https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1415155637821
+https\://oss.sonatype.org/content/repositories/snapshots/.error=Could not transfer artifact springframework\:spring\:pom\:2.0-M4 from/to mybatis-snapshot (https\://oss.sonatype.org/content/repositories/snapshots)\: connection timed out to https\://oss.sonatype.org/content/repositories/snapshots/springframework/spring/2.0-M4/spring-2.0-M4.pom
