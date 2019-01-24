@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"
+	xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.danga</groupId>
+	<artifactId>java-memcached</artifactId>
+	<version>2.6.3</version>
+
+	<distributionManagement>
+		<repository>
+			<id>dayatang.nexus.release</id>
+			<name>Dayatang release repository</name>
+			<url>dav:http://www.dayatang.com:8080/nexus/content/repositories/releases</url>
+		</repository>
+		<snapshotRepository>
+			<id>dayatang.nexus.snapshots</id>
+			<name>Dayatang snapshot repository</name>
+			<url>dav:http://www.dayatang.com:8080/nexus/content/repositories/snapshots</url>
+		</snapshotRepository>
+		<site>
+			<id>dayatang-site</id>
+			<name>Dayatang site</name>
+			<url>dav:http://www.dayatang.com/projects/dddlib</url>
+		</site>
+	</distributionManagement>
+	
+	<dependencies>
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-simple</artifactId>
+			<version>1.6.4</version>
+		</dependency>
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-api</artifactId>
+			<version>1.6.4</version>
+		</dependency>
+		<dependency>
+			<groupId>commons-pool</groupId>
+			<artifactId>commons-pool</artifactId>
+			<version>1.5.6</version>
+		</dependency>
+	</dependencies>
+</project>  

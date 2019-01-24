@@ -1,0 +1,18 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Sep 18 08:39:32 CST 2013
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-application/../lib/.error=
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-infra/../lib/.error=
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-applicationImpl/../lib/.error=
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-core/../lib/.lastUpdated=1379464771325
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.error=Could not transfer artifact com.danga\:java-memcached\:jar\:sources\:2.6.3 from/to public-repository (http\://www.dayatang.com\:8080/nexus/content/groups/public/)\: Access denied to http\://www.dayatang.com\:8080/nexus/content/groups/public/com/danga/java-memcached/2.6.3/java-memcached-2.6.3-sources.jar. Error code 407, Proxy Authentication Required
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-web/../lib/.error=
+http\://nexus.openkoala.org/nexus/content/groups/Koala-release/.error=Could not transfer artifact com.danga\:java-memcached\:jar\:sources\:2.6.3 from/to koala-release (http\://nexus.openkoala.org/nexus/content/groups/Koala-release/)\: null to http\://nexus.openkoala.org/nexus/content/groups/Koala-release/com/danga/java-memcached/2.6.3/java-memcached-2.6.3-sources.jar
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-application/../lib/.lastUpdated=1379464769655
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-infra/../lib/.lastUpdated=1379464772058
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://repo.maven.apache.org/maven2/.lastUpdated=1379464751357
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.danga\:java-memcached\:jar\:sources\:2.6.3 from/to central (http\://repo.maven.apache.org/maven2)\: null to http\://repo.maven.apache.org/maven2/com/danga/java-memcached/2.6.3/java-memcached-2.6.3-sources.jar
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://www.dayatang.com\:8080/nexus/content/groups/public/.lastUpdated=1379464751310
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-web/../lib/.lastUpdated=1379464751263
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://nexus.openkoala.org/nexus/content/groups/Koala-release/.lastUpdated=1379464751357
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-applicationImpl/../lib/.lastUpdated=1379464772807
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-core/../lib/.error=

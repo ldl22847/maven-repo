@@ -1,0 +1,17 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Jun 15 16:28:43 CST 2018
+http\://183.56.130.248\:8081/nexus/content/groups/anymeeting-group/.lastUpdated=1450679158738
+http\://maven.oschina.net/content/groups/public/.error=Could not transfer artifact com.belerweb\:pinyin4j\:pom\:2.5.0 from/to osc (http\://maven.oschina.net/content/groups/public/)\: java.net.ConnectException\: Connection refused\: no further information to http\://maven.oschina.net/content/groups/public/com/belerweb/pinyin4j/2.5.0/pinyin4j-2.5.0.pom
+default-http\://maven.oschina.net/content/groups/public/.lastUpdated=1529051323854
+http\://repo.maven.apache.org/maven2/.lastUpdated=1433691701783
+http\://maven.springframework.org/release/.error=
+https\://repository.jboss.org/nexus/content/repositories/central/.lastUpdated=1408415984709
+http\://repo.spring.io/release/.error=
+http\://maven.springframework.org/release/.lastUpdated=1408415979892
+https\://repository.apache.org/content/groups/staging/.error=
+http\://repo.springsource.org/release/.lastUpdated=1408415981109
+http\://repo.spring.io/release/.lastUpdated=1408415981832
+http\://repo.springsource.org/release/.error=
+https\://oss.sonatype.org/.error=
+https\://oss.sonatype.org/.lastUpdated=1408415978604
+https\://repository.apache.org/content/groups/staging/.lastUpdated=1408415982885
