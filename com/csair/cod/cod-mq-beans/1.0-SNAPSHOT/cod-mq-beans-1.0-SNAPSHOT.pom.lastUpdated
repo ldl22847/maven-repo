@@ -1,0 +1,24 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Aug 03 14:39:50 CST 2012
+file\://D\:\\SCMS\\scms_project\\scms-auth/../lib/.error=
+file\://D\:\\SCMS\\scms_project\\scms-external/../lib/.error=
+http\://10.103.118.60\:8081/nexus/content/groups/public/.lastUpdated=1343975990078
+file\://D\:\\SCMS\\scms_project\\scms-auth/../lib/.lastUpdated=1343975469996
+file\://D\:\\SCMS\\scms_project\\scms-external/../lib/.lastUpdated=1343975847049
+file\://D\:\\SCMS\\scms_project\\scms-webservice/../lib/.error=
+file\://D\:\\SCMS\\scms_project\\scms-application/../lib/.lastUpdated=1343975469792
+file\://D\:\\SCMS\\scms_project\\scms-ear/../lib/.lastUpdated=1343975469599
+file\://D\:\\SCMS\\scms_project\\scms-webservice/../lib/.lastUpdated=1343975468798
+file\://D\:\\SCMS\\scms_project\\scms-ear/../lib/.error=
+file\://D\:\\SCMS\\scms_project\\scms-application-impl/../lib/.lastUpdated=1343975468993
+file\://D\:\\SCMS\\scms_project\\scms-web/../lib/.error=
+http\://10.103.118.60\:8081/nexus/content/groups/public/.error=
+file\://D\:\\SCMS\\scms_project\\scms-application-impl/../lib/.error=
+file\://D\:\\SCMS\\scms_project\\scms-core/../lib/.error=
+file\://D\:\\SCMS\\scms_project\\scms-infrastructure/../lib/.lastUpdated=1343975469171
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.error=Could not transfer artifact com.csair.cod\:cod-mq-beans\:pom\:1.0-SNAPSHOT from/to public-repository (http\://www.dayatang.com\:8080/nexus/content/groups/public/)\: Access denied to http\://www.dayatang.com\:8080/nexus/content/groups/public/com/csair/cod/cod-mq-beans/1.0-SNAPSHOT/cod-mq-beans-1.0-SNAPSHOT.pom. Error code 407, Proxy Authentication Required
+file\://D\:\\SCMS\\scms_project\\scms-infrastructure/../lib/.error=
+file\://D\:\\SCMS\\scms_project\\scms-application/../lib/.error=
+file\://D\:\\SCMS\\scms_project\\scms-core/../lib/.lastUpdated=1343975469422
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://www.dayatang.com\:8080/nexus/content/groups/public/.lastUpdated=1343975847085
+file\://D\:\\SCMS\\scms_project\\scms-web/../lib/.lastUpdated=1343975468462
