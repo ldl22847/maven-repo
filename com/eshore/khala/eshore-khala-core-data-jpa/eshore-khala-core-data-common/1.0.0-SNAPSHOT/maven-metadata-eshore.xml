@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.eshore.khala</groupId>
+  <artifactId>eshore-khala-core-data-common</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20160728.024948</timestamp>
+      <buildNumber>15</buildNumber>
+    </snapshot>
+    <lastUpdated>20160728024948</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.0-20160728.024948-15</value>
+        <updated>20160728024948</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.0-20160728.024948-15</value>
+        <updated>20160728024948</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>1.0.0-20160728.024948-15</value>
+        <updated>20160728024948</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>javadoc</classifier>
+        <extension>jar</extension>
+        <value>1.0.0-20160728.024948-15</value>
+        <updated>20160728024948</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

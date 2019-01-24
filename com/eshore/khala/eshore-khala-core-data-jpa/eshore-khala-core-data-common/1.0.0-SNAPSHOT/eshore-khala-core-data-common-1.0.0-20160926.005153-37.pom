@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<project
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"
+	xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>com.eshore.khala</groupId>
+		<artifactId>eshore-khala-core-data</artifactId>
+		<version>1.0.0-SNAPSHOT</version>
+	</parent>
+	<artifactId>eshore-khala-core-data-common</artifactId>
+	<name>eshore-khala-core-data-common</name>
+	<url>http://maven.apache.org</url>
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
+
+
+	<!-- 设定除中央仓�?(repo1.maven.org/maven2/)外的其他仓库,按设定顺序进行查询，如有Nexus私服, 取消注释并指向正确的服务器地�? -->
+	<repositories>
+		<repository>
+			<id>21-public</id>
+			<name>Public Repositories</name>
+			<layout>default</layout>
+			<url>http://132.122.1.21:9876/nexus/content/groups/public/</url>
+		</repository>
+
+		<!-- <repository> <id>jsqlparser-snapshots</id> <snapshots> <enabled>true</enabled> 
+			</snapshots> <url>https://oss.sonatype.org/content/groups/public/</url> </repository> 
+			<repository> <id>CN</id> <name>OSChina Central</name> <url>http://maven.oschina.net/content/groups/public/</url> 
+			</repository> -->
+
+
+		<!-- <repository>
+			<id>central</id>
+			<name>central</name>
+			<url>http://132.126.2.216:8080/nexus/content/repositories/central</url>
+		</repository>
+
+		<repository>
+			<id>eshore</id>
+			<url>http://132.126.2.216:8080/nexus/content/repositories/eshore</url>
+		</repository>
+		<repository>
+			<id>thirdparty</id>
+			<url>http://132.126.2.216:8080/nexus/content/repositories/thirdparty</url>
+		</repository> -->
+	</repositories>
+	<distributionManagement>
+		<repository>
+			<id>releases</id>
+			<url>http://132.122.1.21:9876/nexus/content/repositories/releases</url>
+		</repository>
+		<snapshotRepository>
+			<id>snapshots</id>
+			<url>http://132.122.1.21:9876/nexus/content/repositories/snapshots</url>
+		</snapshotRepository>
+
+	</distributionManagement>
+
+	<dependencies>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>com.eshore.khala</groupId>
+			<artifactId>eshore-khala-common</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-orm</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>javax.persistence</groupId>
+			<artifactId>persistence-api</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>com.alibaba</groupId>
+			<artifactId>druid</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.mariadb.jdbc</groupId>
+			<artifactId>mariadb-java-client</artifactId>
+		</dependency>
+	</dependencies>
+</project>
