@@ -1,0 +1,24 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Nov 07 18:10:59 CST 2016
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://nexus.openkoala.org/nexus/content/groups/Koala-release/.lastUpdated=1379465561731
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-applicationImpl/../lib/.error=
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-applicationImpl/../lib/.lastUpdated=1379465560998
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-core/../lib/.lastUpdated=1379465603318
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-application/../lib/.error=
+http\://www.dayatang.com/nexus/content/groups/public-release/.error=Could not transfer artifact stax\:stax-api\:pom\:1.0.1 from/to dayatang-releases (http\://www.dayatang.com/nexus/content/groups/public-release/)\: java.net.ConnectException\: null to http\://www.dayatang.com/nexus/content/groups/public-release/stax/stax-api/1.0.1/stax-api-1.0.1.pom
+http\://10.103.118.60\:8081/nexus/content/groups/public/.lastUpdated=1337151607331
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://repo.maven.apache.org/maven2/.lastUpdated=1379465562355
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-application/../lib/.lastUpdated=1379465605019
+http\://183.56.130.248\:8081/nexus/content/groups/anymeeting-group/.lastUpdated=1453260249563
+http\://repo.maven.apache.org/maven2/.lastUpdated=1478513459580
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-core/../lib/.error=
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-infra/../lib/.lastUpdated=1379465602241
+http\://nexus.openkoala.org/nexus/content/groups/Koala-release/.lastUpdated=1381978489165
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-web/../lib/.lastUpdated=1379465607247
+file\://D\:\\SCMS\\scms_project\\scms-web/../lib/.error=
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://www.dayatang.com/nexus/content/groups/public-release/.lastUpdated=1379465562838
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-infra/../lib/.error=
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.error=Could not transfer artifact stax\:stax-api\:pom\:1.0.1 from/to public-repository (http\://www.dayatang.com\:8080/nexus/content/groups/public/)\: java.io.IOException\: Remotely Closed [id\: 0x77091c2f, /10.108.67.42\:52849 \:> /10.101.1.6\:80]
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-web/../lib/.error=
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://www.dayatang.com\:8080/nexus/content/groups/public/.lastUpdated=1379465561122
+file\://D\:\\SCMS\\scms_project\\scms-web/../lib/.lastUpdated=1337151607164
