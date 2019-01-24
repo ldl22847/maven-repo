@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Oct 16 00:01:59 CST 2013
+default-https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1381852899056
+http\://repo1.maven.org/maven2/.lastUpdated=1381852919620
+https\://repository.jboss.org/nexus/content/groups/public/.error=Could not transfer artifact com.google.protobuf\:protobuf-java\:jar\:2.4.1 from/to jboss (https\://repository.jboss.org/nexus/content/groups/public/)\: No response received after 60000
