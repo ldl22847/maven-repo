@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>sshtools</groupId>
+  <artifactId>j2ssh-core</artifactId>
+  <version>0.2.9</version>
+  <versioning>
+    <versions>
+      <version>0.2.9</version>
+    </versions>
+    <lastUpdated>20120510074727</lastUpdated>
+  </versioning>
+</metadata>

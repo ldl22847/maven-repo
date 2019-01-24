@@ -1,0 +1,20 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jul 11 14:15:36 CST 2013
+file\://D\:\\SuPingSpace\\springside4-4.0.1.GA\\examples\\quickstart/../lib/.error=
+file\://D\:\\SuPingSpace\\springside4-4.0.1.GA\\examples\\showcase/../lib/.error=
+file\://D\:\\SuPingSpace\\springside4-4.0.1.GA\\examples\\showcase/../lib/.lastUpdated=1373523307789
+file\://D\:\\SuPingSpace\\springside4-4.0.1.GA\\modules\\test/../lib/.error=
+file\://D\:\\SuPingSpace\\springside4-4.0.1.GA\\modules\\extension/../lib/.lastUpdated=1373523336756
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://repo.maven.apache.org/maven2/.lastUpdated=1373522819591
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact spy\:spymemcached\:pom\:2.8.9 from/to central (http\://repo.maven.apache.org/maven2)\: Access denied to http\://repo.maven.apache.org/maven2/spy/spymemcached/2.8.9/spymemcached-2.8.9.pom. Error code 407, Proxy Authentication Required
+file\://D\:\\SuPingSpace\\springside4-4.0.1.GA\\modules\\test/../lib/.lastUpdated=1373523336862
+http\://files.couchbase.com/maven2/.error=Could not transfer artifact spy\:spymemcached\:pom\:2.8.9 from/to spy (http\://files.couchbase.com/maven2/)\: Access denied to http\://files.couchbase.com/maven2/spy/spymemcached/2.8.9/spymemcached-2.8.9.pom. Error code 407, Proxy Authentication Required
+http\://10.103.118.60\:8081/nexus/content/groups/public/.error=Could not transfer artifact spy\:spymemcached\:pom\:2.8.9 from/to internal-repository (http\://10.103.118.60\:8081/nexus/content/groups/public/)\: Connection refused\: no further information
+file\://D\:\\SuPingSpace\\springside4-4.0.1.GA\\modules\\core/../lib/.lastUpdated=1373523254091
+default-http\://10.103.118.60\:8081/nexus/content/groups/public/.lastUpdated=1373523165364
+file\://D\:\\SuPingSpace\\springside4-4.0.1.GA\\examples\\quickstart/../lib/.lastUpdated=1373523161332
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.error=Could not transfer artifact spy\:spymemcached\:pom\:2.8.9 from/to public-repository (http\://www.dayatang.com\:8080/nexus/content/groups/public/)\: Access denied to http\://www.dayatang.com\:8080/nexus/content/groups/public/spy/spymemcached/2.8.9/spymemcached-2.8.9.pom. Error code 407, Proxy Authentication Required
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://files.couchbase.com/maven2/.lastUpdated=1373522819602
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://www.dayatang.com\:8080/nexus/content/groups/public/.lastUpdated=1373523254101
+file\://D\:\\SuPingSpace\\springside4-4.0.1.GA\\modules\\core/../lib/.error=
+file\://D\:\\SuPingSpace\\springside4-4.0.1.GA\\modules\\extension/../lib/.error=

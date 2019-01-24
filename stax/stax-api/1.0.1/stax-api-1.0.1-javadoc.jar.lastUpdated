@@ -1,0 +1,10 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 26 10:05:42 CST 2014
+http\://repo.maven.apache.org/maven2/.lastUpdated=1395799542981
+default-http\://10.103.118.60\:8081/nexus/content/groups/public/.lastUpdated=1395799541912
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.error=
+http\://repo.maven.apache.org/maven2/.error=
+http\://10.103.118.60\:8081/nexus/content/groups/public/.error=Could not transfer artifact stax\:stax-api\:jar\:javadoc\:1.0.1 from/to internal-repository (http\://10.103.118.60\:8081/nexus/content/groups/public/)\: connection timed out to http\://10.103.118.60\:8081/nexus/content/groups/public/stax/stax-api/1.0.1/stax-api-1.0.1-javadoc.jar
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-web/../lib/.error=
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-web/../lib/.lastUpdated=1395799531397
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.lastUpdated=1395799542346

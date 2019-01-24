@@ -1,0 +1,22 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 26 10:10:46 CST 2014
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-external/../lib/.lastUpdated=1395796666740
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-web/../lib/.error=
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-application-impl/../lib/.lastUpdated=1395798543635
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-scheduler/../lib/.lastUpdated=1395799846973
+http\://repo.maven.apache.org/maven2/.lastUpdated=1394729679429
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-external/../lib/.error=
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.lastUpdated=1394729678766
+http\://repo.maven.apache.org/maven2/.error=
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-infrastructure/../lib/.lastUpdated=1395799845860
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-web/../lib/.lastUpdated=1395798593001
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-application-impl/../lib/.error=
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-core/../lib/.lastUpdated=1395799846181
+http\://10.103.118.60\:8081/nexus/content/groups/public/.error=Could not transfer artifact sshtools\:j2ssh-core\:jar\:javadoc\:0.2.9 from/to internal-repository (http\://10.103.118.60\:8081/nexus/content/groups/public/)\: connection timed out to http\://10.103.118.60\:8081/nexus/content/groups/public/sshtools/j2ssh-core/0.2.9/j2ssh-core-0.2.9-javadoc.jar
+default-http\://10.103.118.60\:8081/nexus/content/groups/public/.lastUpdated=1394729678707
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-application/../lib/.lastUpdated=1394729668191
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.error=
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-scheduler/../lib/.error=
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-application/../lib/.error=
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-core/../lib/.error=
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-infrastructure/../lib/.error=
