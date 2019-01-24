@@ -1,0 +1,12 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Oct 27 17:54:03 CST 2016
+http\://132.126.2.216\:8080/nexus/content/repositories/central/.error=
+http\://maven.oschina.net/content/groups/public/.error=Could not transfer artifact com.eshore.khala\:eshore-khala-core-api\:pom\:1.0.0-SNAPSHOT from/to CN (http\://maven.oschina.net/content/groups/public/)\: connect timed out
+http\://132.126.2.216\:8080/nexus/content/repositories/eshore/.lastUpdated=1477562033427
+http\://132.126.2.216\:8080/nexus/content/repositories/eshore/.error=
+http\://132.122.1.21\:9876/nexus/content/groups/public/.error=
+http\://132.126.2.216\:8080/nexus/content/repositories/thirdparty/.lastUpdated=1477562033497
+http\://132.122.1.21\:9876/nexus/content/groups/public/.lastUpdated=1477562033297
+@default-http\://maven.oschina.net/content/groups/public/.lastUpdated=1477562043507
+http\://132.126.2.216\:8080/nexus/content/repositories/central/.lastUpdated=1477562033357
+http\://132.126.2.216\:8080/nexus/content/repositories/thirdparty/.error=
