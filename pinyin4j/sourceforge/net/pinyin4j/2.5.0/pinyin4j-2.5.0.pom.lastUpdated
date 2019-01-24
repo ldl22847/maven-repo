@@ -1,0 +1,28 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Aug 11 18:04:59 CST 2014
+https\://repository.sonatype.org/content/groups/forge/.lastUpdated=1407751494844
+http\://mirrors.ibiblio.org/maven2/.lastUpdated=1407751497544
+http\://repository.codehaus.org/.error=
+https\://repository.jboss.org/nexus/content/repositories/central/.error=
+http\://repository.codehaus.org/.lastUpdated=1407751492800
+https\://repository.jboss.org/nexus/content/repositories/fs-maven2-all/.lastUpdated=1407751491984
+https\://oss.sonatype.org/.error=
+https\://repository.sonatype.org/content/shadows/centralm1/.lastUpdated=1407751496862
+http\://repo.maven.apache.org/maven2/.lastUpdated=1407751499126
+http\://repo.spring.io/release/.lastUpdated=1407751487924
+https\://repository.jboss.org/nexus/content/groups/developer/.error=
+http\://repo.maven.apache.org/maven2/.error=
+http\://maven.springframework.org/release/.lastUpdated=1407751484939
+https\://repository.sonatype.org/content/shadows/centralm1/.error=
+https\://oss.sonatype.org/.lastUpdated=1407751483420
+http\://mirrors.ibiblio.org/maven2/.error=
+https\://repository.apache.org/content/groups/staging/.error=
+https\://repository.jboss.org/nexus/content/groups/developer/.lastUpdated=1407751498581
+https\://repository.jboss.org/nexus/content/repositories/central/.lastUpdated=1407751491108
+http\://repo.spring.io/release/.error=
+https\://repository.apache.org/content/groups/staging/.lastUpdated=1407751489402
+https\://repository.jboss.org/nexus/content/repositories/fs-maven2-all/.error=
+https\://repository.sonatype.org/content/groups/forge/.error=
+http\://repo.springsource.org/release/.lastUpdated=1407751487020
+http\://repo.springsource.org/release/.error=
+http\://maven.springframework.org/release/.error=
