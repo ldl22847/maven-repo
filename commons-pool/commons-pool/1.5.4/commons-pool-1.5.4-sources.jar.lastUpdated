@@ -1,0 +1,18 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Sep 18 08:39:33 CST 2013
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-application/../lib/.error=
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-applicationImpl/../lib/.error=
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-conf/../lib/.lastUpdated=1379464770451
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-core/../lib/.lastUpdated=1379464771512
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.error=Could not transfer artifact commons-pool\:commons-pool\:jar\:sources\:1.5.4 from/to public-repository (http\://www.dayatang.com\:8080/nexus/content/groups/public/)\: null to http\://www.dayatang.com\:8080/nexus/content/groups/public/commons-pool/commons-pool/1.5.4/commons-pool-1.5.4-sources.jar
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-web/../lib/.error=
+http\://nexus.openkoala.org/nexus/content/groups/Koala-release/.error=Could not transfer artifact commons-pool\:commons-pool\:jar\:sources\:1.5.4 from/to koala-release (http\://nexus.openkoala.org/nexus/content/groups/Koala-release/)\: null to http\://nexus.openkoala.org/nexus/content/groups/Koala-release/commons-pool/commons-pool/1.5.4/commons-pool-1.5.4-sources.jar
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-application/../lib/.lastUpdated=1379464769967
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://repo.maven.apache.org/maven2/.lastUpdated=1379464755771
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact commons-pool\:commons-pool\:jar\:sources\:1.5.4 from/to central (http\://repo.maven.apache.org/maven2)\: null to http\://repo.maven.apache.org/maven2/commons-pool/commons-pool/1.5.4/commons-pool-1.5.4-sources.jar
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://www.dayatang.com\:8080/nexus/content/groups/public/.lastUpdated=1379464755740
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-web/../lib/.lastUpdated=1379464755725
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://nexus.openkoala.org/nexus/content/groups/Koala-release/.lastUpdated=1379464755756
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-conf/../lib/.error=
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-applicationImpl/../lib/.lastUpdated=1379464773197
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-core/../lib/.error=

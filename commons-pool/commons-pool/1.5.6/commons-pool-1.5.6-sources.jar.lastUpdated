@@ -1,0 +1,10 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Sep 18 08:39:32 CST 2013
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://www.dayatang.com\:8080/nexus/content/groups/public/.lastUpdated=1379464772120
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-infra/../lib/.lastUpdated=1379464772073
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://nexus.openkoala.org/nexus/content/groups/Koala-release/.lastUpdated=1379464772151
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-infra/../lib/.error=
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.error=Could not transfer artifact commons-pool\:commons-pool\:jar\:sources\:1.5.6 from/to public-repository (http\://www.dayatang.com\:8080/nexus/content/groups/public/)\: null to http\://www.dayatang.com\:8080/nexus/content/groups/public/commons-pool/commons-pool/1.5.6/commons-pool-1.5.6-sources.jar
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact commons-pool\:commons-pool\:jar\:sources\:1.5.6 from/to central (http\://repo.maven.apache.org/maven2)\: null to http\://repo.maven.apache.org/maven2/commons-pool/commons-pool/1.5.6/commons-pool-1.5.6-sources.jar
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://repo.maven.apache.org/maven2/.lastUpdated=1379464772167
+http\://nexus.openkoala.org/nexus/content/groups/Koala-release/.error=Could not transfer artifact commons-pool\:commons-pool\:jar\:sources\:1.5.6 from/to koala-release (http\://nexus.openkoala.org/nexus/content/groups/Koala-release/)\: null to http\://nexus.openkoala.org/nexus/content/groups/Koala-release/commons-pool/commons-pool/1.5.6/commons-pool-1.5.6-sources.jar
