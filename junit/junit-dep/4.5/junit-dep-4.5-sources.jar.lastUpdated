@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Aug 15 15:34:10 CST 2018
+http\://repo2.maven.org/maven2/.lastUpdated=1414048197529
+default-https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1414048195982
+http\://183.56.130.248\:8081/nexus/content/groups/anymeeting-group/.lastUpdated=1534318450593
+https\://maven.alfresco.com/nexus/content/groups/public/.error=Could not transfer artifact junit\:junit-dep\:jar\:sources\:4.5 from/to Alfresco Maven Repository (https\://maven.alfresco.com/nexus/content/groups/public/)\: connection timed out to https\://maven.alfresco.com/nexus/content/groups/public/junit/junit-dep/4.5/junit-dep-4.5-sources.jar

@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Aug 15 10:09:47 CST 2013
+junit-4.6.jar>public-repository=
+junit-4.6.pom>public-repository=
+junit-4.6.jar>internal-repository=
+junit-4.6.pom>internal-repository=

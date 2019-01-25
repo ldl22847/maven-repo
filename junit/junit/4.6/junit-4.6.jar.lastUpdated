@@ -1,0 +1,10 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Aug 15 10:09:47 CST 2013
+file\://D\:\\SCMS\\scms_new/../lib/.error=
+http\://10.103.118.60\:8081/nexus/content/groups/public/.lastUpdated=1376532587011
+file\://D\:\\SCMS\\scms-ws-support/../lib/.lastUpdated=1376532586824
+file\://D\:\\SCMS\\scms-ws-support/../lib/.error=
+file\://D\:\\SCMS\\scms_new/../lib/.lastUpdated=1333587416972
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://repo1.maven.org/maven2/.lastUpdated=1376532586855
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact junit\:junit\:jar\:4.6 from/to all-repository (http\://repo1.maven.org/maven2/)\: Failed to look for file\: http\://repo1.maven.org/maven2/http\://repo1.maven.org/maven2/junit/junit/4.6/junit-4.6.jar. Return code is\: 407
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.lastUpdated=1333587727924

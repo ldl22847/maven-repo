@@ -1,0 +1,24 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 26 10:11:10 CST 2014
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-external/../lib/.lastUpdated=1395797848631
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-web/../lib/.error=
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-application-impl/../lib/.lastUpdated=1395798592961
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-scheduler/../lib/.lastUpdated=1395799869884
+http\://repo.maven.apache.org/maven2/.lastUpdated=1395797859048
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-external/../lib/.error=
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.lastUpdated=1395797858669
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project/../lib/.lastUpdated=1395799870236
+http\://repo.maven.apache.org/maven2/.error=
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-infrastructure/../lib/.lastUpdated=1395799846156
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-web/../lib/.lastUpdated=1395799451609
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-application-impl/../lib/.error=
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-core/../lib/.lastUpdated=1395799846742
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project/../lib/.error=
+http\://10.103.118.60\:8081/nexus/content/groups/public/.error=Could not transfer artifact junit\:junit\:jar\:javadoc\:4.6 from/to internal-repository (http\://10.103.118.60\:8081/nexus/content/groups/public/)\: connection timed out to http\://10.103.118.60\:8081/nexus/content/groups/public/junit/junit/4.6/junit-4.6-javadoc.jar
+default-http\://10.103.118.60\:8081/nexus/content/groups/public/.lastUpdated=1395797858653
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-application/../lib/.lastUpdated=1395799846946
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.error=
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-scheduler/../lib/.error=
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-infrastructure/../lib/.error=
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-core/../lib/.error=
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-application/../lib/.error=

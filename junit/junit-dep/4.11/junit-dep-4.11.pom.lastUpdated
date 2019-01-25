@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Jun 15 16:29:26 CST 2018
+default-http\://maven.oschina.net/content/groups/public/.lastUpdated=1529051366644
+http\://maven.oschina.net/content/groups/public/.error=Could not transfer artifact junit\:junit-dep\:pom\:4.11 from/to osc (http\://maven.oschina.net/content/groups/public/)\: java.net.ConnectException\: Connection refused\: no further information to http\://maven.oschina.net/content/groups/public/junit/junit-dep/4.11/junit-dep-4.11.pom

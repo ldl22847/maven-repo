@@ -1,0 +1,20 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Sep 18 08:39:32 CST 2013
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://nexus.openkoala.org/nexus/content/groups/Koala-release/.lastUpdated=1379464749594
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-applicationImpl/../lib/.error=
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-applicationImpl/../lib/.lastUpdated=1379464772682
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-core/../lib/.lastUpdated=1379464771184
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-application/../lib/.error=
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-conf/../lib/.error=
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://repo.maven.apache.org/maven2/.lastUpdated=1379464749609
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-application/../lib/.lastUpdated=1379464769531
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-core/../lib/.error=
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-infra/../lib/.lastUpdated=1379464771902
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact junit\:junit\:jar\:sources\:4.8.1 from/to central (http\://repo.maven.apache.org/maven2)\: null to http\://repo.maven.apache.org/maven2/junit/junit/4.8.1/junit-4.8.1-sources.jar
+http\://nexus.openkoala.org/nexus/content/groups/Koala-release/.error=Could not transfer artifact junit\:junit\:jar\:sources\:4.8.1 from/to koala-release (http\://nexus.openkoala.org/nexus/content/groups/Koala-release/)\: null to http\://nexus.openkoala.org/nexus/content/groups/Koala-release/junit/junit/4.8.1/junit-4.8.1-sources.jar
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-web/../lib/.lastUpdated=1379464749391
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.error=Could not transfer artifact junit\:junit\:jar\:sources\:4.8.1 from/to public-repository (http\://www.dayatang.com\:8080/nexus/content/groups/public/)\: null to http\://www.dayatang.com\:8080/nexus/content/groups/public/junit/junit/4.8.1/junit-4.8.1-sources.jar
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-infra/../lib/.error=
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-conf/../lib/.lastUpdated=1379464770420
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-web/../lib/.error=
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://www.dayatang.com\:8080/nexus/content/groups/public/.lastUpdated=1379464749563

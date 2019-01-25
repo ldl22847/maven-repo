@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 15 00:32:49 CST 2015
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1421253169397
+http\://repo2.maven.org/maven2/.error=Could not transfer artifact junit\:junit\:jar\:4.11 from/to Public Maven Repository (http\://repo2.maven.org/maven2)\: No response received after 60000
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1421252004890
+https\://maven.alfresco.com/nexus/content/groups/public/.error=
+default-http\://repo2.maven.org/maven2/.lastUpdated=1421252816503
