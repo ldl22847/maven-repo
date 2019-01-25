@@ -1,0 +1,30 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 26 09:55:47 CST 2014
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-web/../lib/.error=
+https\://repository.sonatype.org/content/groups/forge/.lastUpdated=1394951307712
+http\://repository.codehaus.org/.error=
+https\://repository.jboss.org/nexus/content/repositories/central/.error=
+http\://repository.codehaus.org/.lastUpdated=1394723384880
+https\://repository.jboss.org/nexus/content/repositories/fs-maven2-all/.lastUpdated=1394951305835
+https\://repository.sonatype.org/content/shadows/centralm1/.lastUpdated=1394951309335
+http\://repo.maven.apache.org/maven2/.lastUpdated=1394723385626
+http\://repo.spring.io/libs-snapsho/.error=
+http\://repo.spring.io/release/.lastUpdated=1394723370384
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.lastUpdated=1395798947445
+http\://repo.maven.apache.org/maven2/.error=
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-web/../lib/.lastUpdated=1395798936408
+http\://repo.spring.io/libs-snapsho/.lastUpdated=1394951303386
+http\://maven.springframework.org/release/.lastUpdated=1394951302581
+https\://repository.sonatype.org/content/shadows/centralm1/.error=
+http\://10.103.118.60\:8081/nexus/content/groups/public/.error=Could not transfer artifact oro\:oro\:jar\:javadoc\:2.0.8 from/to internal-repository (http\://10.103.118.60\:8081/nexus/content/groups/public/)\: connection timed out to http\://10.103.118.60\:8081/nexus/content/groups/public/oro/oro/2.0.8/oro-2.0.8-javadoc.jar
+https\://repository.apache.org/content/groups/staging/.error=
+default-http\://10.103.118.60\:8081/nexus/content/groups/public/.lastUpdated=1395798947424
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.error=
+https\://repository.jboss.org/nexus/content/repositories/central/.lastUpdated=1394723383369
+https\://repository.jboss.org/nexus/content/repositories/fs-maven2-all/.error=
+https\://repository.apache.org/content/groups/staging/.lastUpdated=1394723379047
+http\://repo.spring.io/release/.error=
+https\://repository.sonatype.org/content/groups/forge/.error=
+http\://repo.springsource.org/release/.lastUpdated=1394723369091
+http\://maven.springframework.org/release/.error=
+http\://repo.springsource.org/release/.error=

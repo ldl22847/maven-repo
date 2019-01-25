@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Mar 10 11:54:11 CST 2014
+default-http\://repo.springsource.org/release/.lastUpdated=1394423646129
+https\://repository.apache.org/content/groups/staging/.error=
+https\://repository.apache.org/content/groups/staging/.lastUpdated=1394423647230
+https\://repository.jboss.org/nexus/content/repositories/central/.lastUpdated=1394423651240
+http\://repo.springsource.org/release/.error=Could not transfer artifact oro\:oro\:jar\:sources\:2.0.8 from/to springsource-repo (http\://repo.springsource.org/release)\: null to http\://repo.spring.io/release/oro/oro/2.0.8/oro-2.0.8-sources.jar
