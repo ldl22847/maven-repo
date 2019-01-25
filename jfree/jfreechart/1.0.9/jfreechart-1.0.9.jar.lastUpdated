@@ -1,0 +1,12 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Mar 21 15:16:01 CST 2013
+default-http\://10.103.118.60\:8081/nexus/content/groups/public/.lastUpdated=1363850161621
+file\://D\:\\SuPingSpace\\STRUTS_2_3_4_X\\plugins\\jfreechart/../lib/.error=
+http\://10.103.118.60\:8081/nexus/content/groups/public/.error=Could not transfer artifact jfree\:jfreechart\:jar\:1.0.9 from/to internal-repository (http\://10.103.118.60\:8081/nexus/content/groups/public/)\: No response received after 60000
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.error=Could not transfer artifact jfree\:jfreechart\:jar\:1.0.9 from/to public-repository (http\://www.dayatang.com\:8080/nexus/content/groups/public/)\: Access denied to http\://www.dayatang.com\:8080/nexus/content/groups/public/jfree/jfreechart/1.0.9/jfreechart-1.0.9.jar. Error code 407, Proxy Authentication Required
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://www.dayatang.com\:8080/nexus/content/groups/public/.lastUpdated=1363850161684
+file\://D\:\\SuPingSpace\\STRUTS_2_3_4_X\\plugins\\jfreechart/../lib/.lastUpdated=1363850161809
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://repo1.maven.org/maven2/.lastUpdated=1363850161715
+file\://D\:\\SuPingSpace\\STRUTS_2_3_4_X\\plugins\\jasperreports/../lib/.lastUpdated=1363850100967
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact jfree\:jfreechart\:jar\:1.0.9 from/to central (http\://repo1.maven.org/maven2)\: Access denied to http\://repo1.maven.org/maven2/jfree/jfreechart/1.0.9/jfreechart-1.0.9.jar. Error code 407, Proxy Authentication Required
+file\://D\:\\SuPingSpace\\STRUTS_2_3_4_X\\plugins\\jasperreports/../lib/.error=

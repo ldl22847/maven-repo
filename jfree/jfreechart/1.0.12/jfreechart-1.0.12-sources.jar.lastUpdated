@@ -1,0 +1,10 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 26 09:59:28 CST 2014
+http\://repo.maven.apache.org/maven2/.lastUpdated=1395799168121
+default-http\://10.103.118.60\:8081/nexus/content/groups/public/.lastUpdated=1395799167695
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.error=
+http\://repo.maven.apache.org/maven2/.error=
+http\://10.103.118.60\:8081/nexus/content/groups/public/.error=Could not transfer artifact jfree\:jfreechart\:jar\:sources\:1.0.12 from/to internal-repository (http\://10.103.118.60\:8081/nexus/content/groups/public/)\: connection timed out to http\://10.103.118.60\:8081/nexus/content/groups/public/jfree/jfreechart/1.0.12/jfreechart-1.0.12-sources.jar
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-web/../lib/.error=
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-web/../lib/.lastUpdated=1395799157679
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.lastUpdated=1395799167725
