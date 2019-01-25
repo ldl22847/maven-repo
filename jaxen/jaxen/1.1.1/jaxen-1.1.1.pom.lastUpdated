@@ -1,0 +1,15 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Dec 21 14:26:08 CST 2015
+http\://183.56.130.248\:8081/nexus/content/groups/anymeeting-group/.lastUpdated=1450679168858
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1418872973007
+file\://D\:\\SCMS\\scms_new/../lib/.error=
+http\://10.103.118.60\:8081/nexus/content/groups/public/.lastUpdated=1376532589086
+file\://D\:\\SCMS\\scms-ws-support\\web/../lib/.lastUpdated=1376532588992
+http\://repo.maven.apache.org/maven2/.lastUpdated=1433691724700
+https\://maven.alfresco.com/nexus/content/groups/public/.error=
+file\://D\:\\SCMS\\scms_new/../lib/.lastUpdated=1333587255455
+http\://repo2.maven.org/maven2/.lastUpdated=1418872973640
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://repo1.maven.org/maven2/.lastUpdated=1376532589039
+file\://D\:\\SCMS\\scms-ws-support\\web/../lib/.error=
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact jaxen\:jaxen\:pom\:1.1.1 from/to all-repository (http\://repo1.maven.org/maven2/)\: Failed to look for file\: http\://repo1.maven.org/maven2/http\://repo1.maven.org/maven2/jaxen/jaxen/1.1.1/jaxen-1.1.1.pom. Return code is\: 407
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.lastUpdated=1333587259966

@@ -1,0 +1,26 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Aug 15 15:46:33 CST 2018
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-external/../lib/.lastUpdated=1395798320646
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-web/../lib/.error=
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-application-impl/../lib/.lastUpdated=1395798592928
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-scheduler/../lib/.lastUpdated=1395799869849
+http\://183.56.130.248\:8081/nexus/content/groups/anymeeting-group/.lastUpdated=1534319193042
+http\://repo.maven.apache.org/maven2/.lastUpdated=1395798331787
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-external/../lib/.error=
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.lastUpdated=1395798331198
+http\://repo.maven.apache.org/maven2/.error=
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project/../lib/.lastUpdated=1395799870092
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-infrastructure/../lib/.lastUpdated=1395799846121
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-web/../lib/.lastUpdated=1395799777734
+http\://183.56.130.248\:8081/nexus/content/groups/anymeeting-group/.error=
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-application-impl/../lib/.error=
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-core/../lib/.lastUpdated=1395799846707
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project/../lib/.error=
+http\://10.103.118.60\:8081/nexus/content/groups/public/.error=Could not transfer artifact jaxen\:jaxen\:jar\:sources\:1.1.1 from/to internal-repository (http\://10.103.118.60\:8081/nexus/content/groups/public/)\: connection timed out to http\://10.103.118.60\:8081/nexus/content/groups/public/jaxen/jaxen/1.1.1/jaxen-1.1.1-sources.jar
+default-http\://10.103.118.60\:8081/nexus/content/groups/public/.lastUpdated=1395798331167
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-application/../lib/.lastUpdated=1395799846912
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.error=
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-scheduler/../lib/.error=
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-application/../lib/.error=
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-core/../lib/.error=
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-infrastructure/../lib/.error=

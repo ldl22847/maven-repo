@@ -1,0 +1,24 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 26 10:11:10 CST 2014
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-external/../lib/.lastUpdated=1395798331800
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-web/../lib/.error=
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-application-impl/../lib/.lastUpdated=1395798592932
+default-http\://www.dayatang.com\:8080/nexus/content/groups/public/.lastUpdated=1395798352343
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-scheduler/../lib/.lastUpdated=1395799869853
+http\://repo.maven.apache.org/maven2/.lastUpdated=1395798352918
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-external/../lib/.error=
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project/../lib/.lastUpdated=1395799870096
+http\://repo.maven.apache.org/maven2/.error=
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-infrastructure/../lib/.lastUpdated=1395799846126
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-web/../lib/.lastUpdated=1395799777740
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-application-impl/../lib/.error=
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-core/../lib/.lastUpdated=1395799846712
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project/../lib/.error=
+http\://10.103.118.60\:8081/nexus/content/groups/public/.error=Could not transfer artifact jaxen\:jaxen\:jar\:javadoc\:1.1.1 from/to internal-repository (http\://10.103.118.60\:8081/nexus/content/groups/public/)\: connection timed out to http\://10.103.118.60\:8081/nexus/content/groups/public/jaxen/jaxen/1.1.1/jaxen-1.1.1-javadoc.jar
+default-http\://10.103.118.60\:8081/nexus/content/groups/public/.lastUpdated=1395798342320
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-application/../lib/.lastUpdated=1395799846917
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.error=Could not transfer artifact jaxen\:jaxen\:jar\:javadoc\:1.1.1 from/to public-repository (http\://www.dayatang.com\:8080/nexus/content/groups/public/)\: connection timed out to http\://www.dayatang.com\:8080/nexus/content/groups/public/jaxen/jaxen/1.1.1/jaxen-1.1.1-javadoc.jar
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-scheduler/../lib/.error=
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-infrastructure/../lib/.error=
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-core/../lib/.error=
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-application/../lib/.error=

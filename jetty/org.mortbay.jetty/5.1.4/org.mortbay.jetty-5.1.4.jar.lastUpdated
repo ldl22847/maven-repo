@@ -1,0 +1,10 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Mar 21 15:18:35 CST 2013
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://www.dayatang.com\:8080/nexus/content/groups/public/.lastUpdated=1363850315157
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact jetty\:org.mortbay.jetty\:jar\:5.1.4 from/to central (http\://repo1.maven.org/maven2)\: Access denied to http\://repo1.maven.org/maven2/jetty/org.mortbay.jetty/5.1.4/org.mortbay.jetty-5.1.4.jar. Error code 407, Proxy Authentication Required
+file\://D\:\\SuPingSpace\\STRUTS_2_3_4_X\\plugins\\sitegraph/../lib/.error=
+default-http\://10.103.118.60\:8081/nexus/content/groups/public/.lastUpdated=1363850314923
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://repo1.maven.org/maven2/.lastUpdated=1363850315189
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.error=Could not transfer artifact jetty\:org.mortbay.jetty\:jar\:5.1.4 from/to public-repository (http\://www.dayatang.com\:8080/nexus/content/groups/public/)\: Access denied to http\://www.dayatang.com\:8080/nexus/content/groups/public/jetty/org.mortbay.jetty/5.1.4/org.mortbay.jetty-5.1.4.jar. Error code 407, Proxy Authentication Required
+http\://10.103.118.60\:8081/nexus/content/groups/public/.error=Could not transfer artifact jetty\:org.mortbay.jetty\:jar\:5.1.4 from/to internal-repository (http\://10.103.118.60\:8081/nexus/content/groups/public/)\: No response received after 60000
+file\://D\:\\SuPingSpace\\STRUTS_2_3_4_X\\plugins\\sitegraph/../lib/.lastUpdated=1363850254871

@@ -1,0 +1,14 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jul 11 14:15:20 CST 2013
+default-http\://10.103.118.60\:8081/nexus/content/groups/public/.lastUpdated=1373523262436
+file\://D\:\\SuPingSpace\\springside4-4.0.1.GA\\modules\\core/../lib/.lastUpdated=1373523258411
+file\://D\:\\SuPingSpace\\springside4-4.0.1.GA\\examples\\showcase/../lib/.lastUpdated=1373523320188
+http\://10.103.118.60\:8081/nexus/content/groups/public/.error=Could not transfer artifact jaxen\:jaxen\:pom\:1.1.4 from/to internal-repository (http\://10.103.118.60\:8081/nexus/content/groups/public/)\: Connection refused\: no further information
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.error=Could not transfer artifact jaxen\:jaxen\:pom\:1.1.4 from/to public-repository (http\://www.dayatang.com\:8080/nexus/content/groups/public/)\: Access denied to http\://www.dayatang.com\:8080/nexus/content/groups/public/jaxen/jaxen/1.1.4/jaxen-1.1.4.pom. Error code 407, Proxy Authentication Required
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://files.couchbase.com/maven2/.lastUpdated=1373522820352
+http\://files.couchbase.com/maven2/.error=Could not transfer artifact jaxen\:jaxen\:pom\:1.1.4 from/to spy (http\://files.couchbase.com/maven2/)\: Access denied to http\://files.couchbase.com/maven2/jaxen/jaxen/1.1.4/jaxen-1.1.4.pom. Error code 407, Proxy Authentication Required
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://repo.maven.apache.org/maven2/.lastUpdated=1373522820338
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact jaxen\:jaxen\:pom\:1.1.4 from/to central (http\://repo.maven.apache.org/maven2)\: Access denied to http\://repo.maven.apache.org/maven2/jaxen/jaxen/1.1.4/jaxen-1.1.4.pom. Error code 407, Proxy Authentication Required
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://www.dayatang.com\:8080/nexus/content/groups/public/.lastUpdated=1373523262488
+file\://D\:\\SuPingSpace\\springside4-4.0.1.GA\\examples\\showcase/../lib/.error=
+file\://D\:\\SuPingSpace\\springside4-4.0.1.GA\\modules\\core/../lib/.error=

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+                      http://maven.apache.org/maven-v4_0_0.xsd">
+							 
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>jetty</groupId>
+  <artifactId>jetty</artifactId>
+  <version>5.1.10</version>
+  <url>http://jetty.mortbay.org/</url>
+  
+    <description>
+Jetty is an open-source, standards-based, full-featured web server implemented entirely in Java. It is released under the Apache 2.0 licence and is therefore free for commercial use and distribution. First created in 1995, Jetty has benefitted from input from a vast user community and consistent and focused development by a stable core of lead developers. There are many more examples of Jetty in action on the Jetty Powered Page that has selections from among the tens of thousands of production Jetty instances. However, as Jetty aims to be as unobtrusive as possible, countless websites and products are based around Jetty, but Jetty is invisible!
+  </description>
+  
+  <licenses>
+    <license>
+        <name>Apache 2.0</name>
+		<url>http://jetty.mortbay.org/LICENSE.TXT</url>
+		<distribution>repo</distribution>
+    </license>
+  </licenses>
+  
+  <scm>
+	<connection>
+		scm:cvs:pserver:anonymous@jetty.cvs.sourceforge.net:/cvsroot/jetty:Jetty
+	</connection>
+  </scm>
+  
+  <mailingLists>
+    <mailingList>
+        <name>jetty-support@lists.sourceforge.net</name>
+    </mailingList>
+  </mailingLists>
+  
+  <dependencies>
+    <dependency>
+      <groupId>javax.servlet</groupId>
+      <artifactId>servlet-api</artifactId>
+      <version>2.4</version>
+    </dependency>
+  </dependencies>
+  
+</project>

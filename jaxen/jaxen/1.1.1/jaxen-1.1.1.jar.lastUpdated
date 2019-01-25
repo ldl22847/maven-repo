@@ -1,0 +1,15 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Dec 21 14:26:25 CST 2015
+http\://183.56.130.248\:8081/nexus/content/groups/anymeeting-group/.lastUpdated=1450679185858
+file\://D\:\\SCMS\\scms_new/../lib/.error=
+http\://10.103.118.60\:8081/nexus/content/groups/public/.lastUpdated=1376532596090
+file\://D\:\\SCMS\\scms-ws-support\\web/../lib/.lastUpdated=1376532592253
+default-https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1418873267627
+http\://repo.maven.apache.org/maven2/.lastUpdated=1433691791670
+https\://maven.alfresco.com/nexus/content/groups/public/.error=Could not transfer artifact jaxen\:jaxen\:jar\:1.1.1 from/to Alfresco Maven Repository (https\://maven.alfresco.com/nexus/content/groups/public/)\: java.util.concurrent.TimeoutException\: No response received after 60000
+file\://D\:\\SCMS\\scms_new/../lib/.lastUpdated=1333587416941
+http\://repo2.maven.org/maven2/.lastUpdated=1418873285426
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://repo1.maven.org/maven2/.lastUpdated=1376532595622
+file\://D\:\\SCMS\\scms-ws-support\\web/../lib/.error=
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact jaxen\:jaxen\:jar\:1.1.1 from/to all-repository (http\://repo1.maven.org/maven2/)\: Failed to look for file\: http\://repo1.maven.org/maven2/http\://repo1.maven.org/maven2/jaxen/jaxen/1.1.1/jaxen-1.1.1.jar. Return code is\: 407
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.lastUpdated=1333587726598
