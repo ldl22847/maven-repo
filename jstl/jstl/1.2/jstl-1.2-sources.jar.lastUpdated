@@ -1,0 +1,34 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Mar 17 15:36:17 CST 2014
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://nexus.openkoala.org/nexus/content/groups/Koala-release/.lastUpdated=1379464767877
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-applicationImpl/../lib/.error=
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-applicationImpl/../lib/.lastUpdated=1379464772947
+https\://repository.sonatype.org/content/groups/forge/.lastUpdated=1394895471446
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-application/../lib/.error=
+http\://repository.codehaus.org/.error=
+https\://repository.jboss.org/nexus/content/repositories/central/.error=
+http\://repository.codehaus.org/.lastUpdated=1394417698304
+https\://repository.jboss.org/nexus/content/repositories/fs-maven2-all/.lastUpdated=1394894837624
+https\://repository.sonatype.org/content/shadows/centralm1/.lastUpdated=1394895474482
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://repo.maven.apache.org/maven2/.lastUpdated=1379464767893
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-application/../lib/.lastUpdated=1379464769874
+http\://repo.spring.io/libs-snapsho/.error=
+http\://repo.spring.io/release/.lastUpdated=1394721251175
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact jstl\:jstl\:jar\:sources\:1.2 from/to central (http\://repo.maven.apache.org/maven2)\: null to http\://repo.maven.apache.org/maven2/jstl/jstl/1.2/jstl-1.2-sources.jar
+default-http\://maven.springframework.org/release/.lastUpdated=1395041777990
+http\://nexus.openkoala.org/nexus/content/groups/Koala-release/.error=Could not transfer artifact jstl\:jstl\:jar\:sources\:1.2 from/to koala-release (http\://nexus.openkoala.org/nexus/content/groups/Koala-release/)\: null to http\://nexus.openkoala.org/nexus/content/groups/Koala-release/jstl/jstl/1.2/jstl-1.2-sources.jar
+http\://repo.spring.io/libs-snapsho/.lastUpdated=1394895953865
+https\://repository.sonatype.org/content/shadows/centralm1/.error=
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-web/../lib/.lastUpdated=1379464767846
+https\://repository.apache.org/content/groups/staging/.error=
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.error=Could not transfer artifact jstl\:jstl\:jar\:sources\:1.2 from/to public-repository (http\://www.dayatang.com\:8080/nexus/content/groups/public/)\: null to http\://www.dayatang.com\:8080/nexus/content/groups/public/jstl/jstl/1.2/jstl-1.2-sources.jar
+https\://repository.jboss.org/nexus/content/repositories/central/.lastUpdated=1394417697607
+https\://repository.jboss.org/nexus/content/repositories/fs-maven2-all/.error=
+https\://repository.apache.org/content/groups/staging/.lastUpdated=1394417696023
+http\://repo.spring.io/release/.error=
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-web/../lib/.error=
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://www.dayatang.com\:8080/nexus/content/groups/public/.lastUpdated=1379464767861
+http\://repo.springsource.org/release/.lastUpdated=1394417694499
+https\://repository.sonatype.org/content/groups/forge/.error=
+http\://maven.springframework.org/release/.error=Could not transfer artifact jstl\:jstl\:jar\:sources\:1.2 from/to springsource-maven (http\://maven.springframework.org/release/)\: null to http\://maven.springframework.org/release/jstl/jstl/1.2/jstl-1.2-sources.jar
+http\://repo.springsource.org/release/.error=

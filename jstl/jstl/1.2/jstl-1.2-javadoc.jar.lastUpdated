@@ -1,0 +1,24 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sun Mar 16 14:28:48 CST 2014
+default-http\://repo.springsource.org/release/.lastUpdated=1394723528968
+https\://repository.sonatype.org/content/groups/forge/.lastUpdated=1394951325957
+http\://repository.codehaus.org/.error=
+https\://repository.jboss.org/nexus/content/repositories/central/.error=
+http\://repository.codehaus.org/.lastUpdated=1394723561104
+https\://repository.jboss.org/nexus/content/repositories/fs-maven2-all/.lastUpdated=1394951324014
+https\://repository.sonatype.org/content/shadows/centralm1/.lastUpdated=1394951328249
+http\://repo.maven.apache.org/maven2/.lastUpdated=1394723563121
+http\://repo.spring.io/libs-snapsho/.error=
+http\://repo.spring.io/release/.lastUpdated=1394723543507
+http\://repo.maven.apache.org/maven2/.error=
+http\://repo.spring.io/libs-snapsho/.lastUpdated=1394951322996
+http\://maven.springframework.org/release/.lastUpdated=1394951322417
+https\://repository.sonatype.org/content/shadows/centralm1/.error=
+https\://repository.apache.org/content/groups/staging/.error=
+https\://repository.jboss.org/nexus/content/repositories/central/.lastUpdated=1394723558622
+https\://repository.apache.org/content/groups/staging/.lastUpdated=1394723552790
+http\://repo.spring.io/release/.error=
+https\://repository.jboss.org/nexus/content/repositories/fs-maven2-all/.error=
+https\://repository.sonatype.org/content/groups/forge/.error=
+http\://repo.springsource.org/release/.error=Could not transfer artifact jstl\:jstl\:jar\:javadoc\:1.2 from/to springsource-repo (http\://repo.springsource.org/release)\: null to http\://repo.springsource.org/release/jstl/jstl/1.2/jstl-1.2-javadoc.jar
+http\://maven.springframework.org/release/.error=
