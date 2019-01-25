@@ -1,0 +1,24 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Oct 12 17:23:12 CST 2016
+file\://D\:\\SuPingSpace\\springside4-4.0.1.GA\\examples\\quickstart/../lib/.error=
+file\://D\:\\SuPingSpace\\springside4-4.0.1.GA\\examples\\showcase/../lib/.error=
+https\://repository.jboss.org/nexus/content/repositories/releases=1352361391163
+http\://spring-roo-repository.springsource.org/release=1352361433455
+http\://files.couchbase.com/maven2/=1352361455177
+file\://D\:\\SuPingSpace\\springside4-4.0.1.GA\\examples\\showcase/../lib/.lastUpdated=1381472136364
+file\://D\:\\SuPingSpace\\STRUTS_2_3_4_X\\apps\\showcase/../lib/.error=
+file\://D\:\\project\\dddlib-allinone-project\\web/lib/=1352361476746
+http\://10.103.118.60\:8081/nexus/content/groups/public/.lastUpdated=1363849948063
+http\://183.56.130.248\:8081/nexus/content/groups/anymeeting-group/.lastUpdated=1476264192576
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://repo.maven.apache.org/maven2/.lastUpdated=1376616865503
+http\://repo.maven.apache.org/maven2/.lastUpdated=1381508353199
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.lastUpdated=1381472136562
+http\://repo1.maven.org/maven2=1352361497905
+http\://files.couchbase.com/maven2/.error=Could not transfer artifact opensymphony\:sitemesh\:pom\:2.4.2 from/to spy (http\://files.couchbase.com/maven2/)\: Failed to look for file\: http\://files.couchbase.com/maven2/http\://files.couchbase.com/maven2/opensymphony/sitemesh/2.4.2/sitemesh-2.4.2.pom. Return code is\: 407
+file\://D\:\\SuPingSpace\\STRUTS_2_3_4_X\\apps\\showcase/../lib/.lastUpdated=1363849922557
+http\://maven.springframework.org/release=1352361412309
+http\://www.dayatang.com\:8080/nexus/content/repositories/releases=1352361370035
+file\://D\:\\SuPingSpace\\springside4-4.0.1.GA\\examples\\quickstart/../lib/.lastUpdated=1376616861431
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://files.couchbase.com/maven2/.lastUpdated=1376616865519
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://www.dayatang.com\:8080/nexus/content/groups/public/.lastUpdated=1376616865488
+http\://support.audaxis.com/maven2/=1352361476744
