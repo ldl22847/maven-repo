@@ -1,0 +1,11 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jul 27 11:10:55 CST 2018
+http\://183.56.130.248\:8081/nexus/content/groups/anymeeting-group/.lastUpdated=1532661055190
+http\://maven.oschina.net/content/groups/public/.error=Could not transfer artifact de.ruedigermoeller\:fst\:pom\:1.58 from/to CN (http\://maven.oschina.net/content/groups/public/)\: connect timed out
+https\://oss.sonatype.org/content/groups/public/.lastUpdated=1476845310045
+http\://132.126.2.216\:8080/nexus/content/repositories/eshore/.lastUpdated=1476845307315
+http\://132.126.2.216\:8080/nexus/content/repositories/eshore/.error=
+http\://132.126.2.216\:8080/nexus/content/repositories/thirdparty/.lastUpdated=1476845307377
+http\://183.56.130.248\:8081/nexus/content/groups/video-group/.lastUpdated=1480995994050
+@default-http\://maven.oschina.net/content/groups/public/.lastUpdated=1476845306847
+http\://132.126.2.216\:8080/nexus/content/repositories/thirdparty/.error=
