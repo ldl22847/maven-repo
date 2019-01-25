@@ -1,0 +1,28 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Dec 21 14:25:46 CST 2015
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://nexus.openkoala.org/nexus/content/groups/Koala-release/.lastUpdated=1380092082549
+file\://D\:\\SuPingSpace\\springside4-4.0.1.GA\\examples\\quickstart/../lib/.error=
+file\://D\:\\SCMS\\scms_new/../lib/.lastUpdated=1333587325427
+http\://www.dayatang.com/nexus/content/groups/public-release/.error=Could not transfer artifact dom4j\:dom4j\:pom\:1.6.1 from/to dayatang-releases (http\://www.dayatang.com/nexus/content/groups/public-release/)\: Access denied to http\://www.dayatang.com/nexus/content/groups/public-release/dom4j/dom4j/1.6.1/dom4j-1.6.1.pom . Status code 403
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-conf/../lib/.error=
+http\://115.28.0.46\:8081/nexus/content/groups/Koala-release/.error=Could not transfer artifact dom4j\:dom4j\:pom\:1.6.1 from/to koala-release (http\://115.28.0.46\:8081/nexus/content/groups/Koala-release/)\: Failed to look for file\: http\://115.28.0.46\:8081/nexus/content/groups/Koala-release/http\://115.28.0.46\:8081/nexus/content/groups/Koala-release/dom4j/dom4j/1.6.1/dom4j-1.6.1.pom. Return code is\: 407
+http\://183.56.130.248\:8081/nexus/content/groups/anymeeting-group/.lastUpdated=1450679146298
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://repo.maven.apache.org/maven2/.lastUpdated=1380092082559
+0d596a7c4ced2ada611cf4a074ecda1a5b7862d7@10.101.1.6\:80>default-http\://www.dayatang.com/nexus/content/groups/public-release/.lastUpdated=1380093283243
+http\://repo.maven.apache.org/maven2/.lastUpdated=1381508349908
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.lastUpdated=1381472043760
+http\://files.couchbase.com/maven2/.error=Could not transfer artifact dom4j\:dom4j\:pom\:1.6.1 from/to spy (http\://files.couchbase.com/maven2/)\: Failed to look for file\: http\://files.couchbase.com/maven2/http\://files.couchbase.com/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1.pom. Return code is\: 407
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://repo1.maven.org/maven2/.lastUpdated=1376873709231
+http\://nexus.openkoala.org/nexus/content/groups/Koala-release/.lastUpdated=1380093419175
+0d596a7c4ced2ada611cf4a074ecda1a5b7862d7@10.101.1.6\:80>default-http\://nexus.openkoala.org/nexus/content/groups/Koala-release/.lastUpdated=1380093283222
+http\://10.103.118.60\:8081/nexus/content/groups/public/.error=Could not transfer artifact dom4j\:dom4j\:pom\:1.6.1 from/to internal-repository (http\://10.103.118.60\:8081/nexus/content/groups/public/)\: java.net.ConnectException\: Connection refused\: no further information
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://115.28.0.46\:8081/nexus/content/groups/Koala-release/.lastUpdated=1376873709215
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://www.dayatang.com/nexus/content/groups/public-release/.lastUpdated=1380092082570
+default-http\://10.103.118.60\:8081/nexus/content/groups/public/.lastUpdated=1373528196415
+file\://D\:\\SuPingSpace\\springside4-4.0.1.GA\\examples\\quickstart/../lib/.lastUpdated=1376616860261
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://files.couchbase.com/maven2/.lastUpdated=1373522875266
+file\://D\:\\SCMS\\scms_new/../lib/.error=
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-conf/../lib/.lastUpdated=1379433340427
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://www.dayatang.com\:8080/nexus/content/groups/public/.lastUpdated=1376616860261
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact dom4j\:dom4j\:pom\:1.6.1 from/to central (http\://repo1.maven.org/maven2)\: Failed to look for file\: http\://repo1.maven.org/maven2/http\://repo1.maven.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1.pom. Return code is\: 407
+0d596a7c4ced2ada611cf4a074ecda1a5b7862d7@10.101.1.6\:80>default-http\://repo.maven.apache.org/maven2/.lastUpdated=1380093283233

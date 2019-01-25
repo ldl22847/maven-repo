@@ -1,0 +1,9 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Dec 21 14:25:57 CST 2015
+file\://D\:\\SCMS\\scms_new/../lib/.lastUpdated=1333587382714
+http\://repo.maven.apache.org/maven2/.lastUpdated=1394112334998
+http\://183.56.130.248\:8081/nexus/content/groups/anymeeting-group/.lastUpdated=1450679157988
+file\://D\:\\SCMS\\scms_new/../lib/.error=
+default-http\://10.103.118.60\:8081/nexus/content/groups/public/.lastUpdated=1333587386817
+http\://10.103.118.60\:8081/nexus/content/groups/public/.error=Could not transfer artifact javassist\:javassist\:pom\:3.11.0.GA from/to internal-repository (http\://10.103.118.60\:8081/nexus/content/groups/public/)\: Connection refused\: no further information
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.lastUpdated=1333587387129

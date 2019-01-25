@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Oct 19 10:51:23 CST 2016
+http\://132.126.2.216\:8080/nexus/content/repositories/thirdparty/.error=
+http\://132.126.2.216\:8080/nexus/content/repositories/eshore/.lastUpdated=1476845483408
+@default-http\://maven.oschina.net/content/groups/public/.lastUpdated=1476845483323
+http\://132.126.2.216\:8080/nexus/content/repositories/thirdparty/.lastUpdated=1476845483459
+http\://maven.oschina.net/content/groups/public/.error=Could not transfer artifact freemarker\:freemarker\:jar\:2.3.2 from/to CN (http\://maven.oschina.net/content/groups/public/)\: Connection timed out\: connect
+http\://132.126.2.216\:8080/nexus/content/repositories/eshore/.error=
