@@ -1,0 +1,22 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Aug 15 15:40:41 CST 2018
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://nexus.openkoala.org/nexus/content/groups/Koala-release/.lastUpdated=1379464749797
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-applicationImpl/../lib/.error=
+default-http\://repo.springsource.org/release/.lastUpdated=1394421699676
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-applicationImpl/../lib/.lastUpdated=1379464772713
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-core/../lib/.lastUpdated=1379464771200
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-application/../lib/.error=
+http\://183.56.130.248\:8081/nexus/content/groups/anymeeting-group/.lastUpdated=1534318841240
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://repo.maven.apache.org/maven2/.lastUpdated=1379464749812
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-application/../lib/.lastUpdated=1379464769562
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-core/../lib/.error=
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-infra/../lib/.lastUpdated=1379464771933
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact commons-lang\:commons-lang\:jar\:sources\:2.6 from/to central (http\://repo.maven.apache.org/maven2)\: null to http\://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6-sources.jar
+http\://nexus.openkoala.org/nexus/content/groups/Koala-release/.error=Could not transfer artifact commons-lang\:commons-lang\:jar\:sources\:2.6 from/to koala-release (http\://nexus.openkoala.org/nexus/content/groups/Koala-release/)\: null to http\://nexus.openkoala.org/nexus/content/groups/Koala-release/commons-lang/commons-lang/2.6/commons-lang-2.6-sources.jar
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-web/../lib/.lastUpdated=1379464749765
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.error=Could not transfer artifact commons-lang\:commons-lang\:jar\:sources\:2.6 from/to public-repository (http\://www.dayatang.com\:8080/nexus/content/groups/public/)\: null to http\://www.dayatang.com\:8080/nexus/content/groups/public/commons-lang/commons-lang/2.6/commons-lang-2.6-sources.jar
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-infra/../lib/.error=
+https\://repository.apache.org/content/groups/staging/.lastUpdated=1394421702790
+file\://D\:\\Koala\\KoalaTest\\KoalaTest-web/../lib/.error=
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://www.dayatang.com\:8080/nexus/content/groups/public/.lastUpdated=1379464749781
+http\://repo.springsource.org/release/.error=Could not transfer artifact commons-lang\:commons-lang\:jar\:sources\:2.6 from/to springsource-repo (http\://repo.springsource.org/release)\: null to http\://repo.spring.io/release/commons-lang/commons-lang/2.6/commons-lang-2.6-sources.jar

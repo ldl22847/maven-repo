@@ -1,0 +1,13 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Mar 13 23:14:57 CST 2014
+default-http\://repo.springsource.org/release/.lastUpdated=1394723585966
+http\://repo.maven.apache.org/maven2/.lastUpdated=1394723697171
+default-http\://repo.spring.io/release/.lastUpdated=1394723596490
+http\://repo.spring.io/release/.error=Could not transfer artifact commons-lang\:commons-lang\:jar\:javadoc\:2.6 from/to io.spring.repo.maven.release (http\://repo.spring.io/release/)\: connection timed out to http\://repo.spring.io/release/commons-lang/commons-lang/2.6/commons-lang-2.6-javadoc.jar
+https\://repository.apache.org/content/groups/staging/.error=Could not transfer artifact commons-lang\:commons-lang\:jar\:javadoc\:2.6 from/to apache.nexus (https\://repository.apache.org/content/groups/staging/)\: connection timed out to https\://repository.apache.org/content/groups/staging/commons-lang/commons-lang/2.6/commons-lang-2.6-javadoc.jar
+http\://repository.codehaus.org/.error=Could not transfer artifact commons-lang\:commons-lang\:jar\:javadoc\:2.6 from/to codehaus (http\://repository.codehaus.org/)\: connection timed out to http\://repository.codehaus.org/commons-lang/commons-lang/2.6/commons-lang-2.6-javadoc.jar
+http\://repo.springsource.org/release/.error=Could not transfer artifact commons-lang\:commons-lang\:jar\:javadoc\:2.6 from/to springsource-repo (http\://repo.springsource.org/release)\: connection timed out to http\://repo.spring.io/release/commons-lang/commons-lang/2.6/commons-lang-2.6-javadoc.jar
+https\://repository.jboss.org/nexus/content/repositories/central/.error=Could not transfer artifact commons-lang\:commons-lang\:jar\:javadoc\:2.6 from/to org.jboss (https\://repository.jboss.org/nexus/content/repositories/central/)\: connection timed out to https\://repository.jboss.org/nexus/content/repositories/central/commons-lang/commons-lang/2.6/commons-lang-2.6-javadoc.jar
+default-https\://repository.apache.org/content/groups/staging/.lastUpdated=1394723607013
+default-https\://repository.jboss.org/nexus/content/repositories/central/.lastUpdated=1394723618038
+default-http\://repository.codehaus.org/.lastUpdated=1394723628562

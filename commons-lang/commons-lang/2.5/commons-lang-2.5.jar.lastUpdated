@@ -1,0 +1,13 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Dec 25 16:40:24 CST 2018
+file\://D\:\\SCMS\\scms_new/../lib/.error=
+http\://10.103.118.60\:8081/nexus/content/groups/public/.lastUpdated=1376532596044
+file\://D\:\\SCMS\\scms-ws-support\\web/../lib/.lastUpdated=1376532592253
+http\://183.56.130.248\:8081/nexus/content/groups/video-group/.lastUpdated=1545727224934
+http\://repo.maven.apache.org/maven2/.lastUpdated=1435311151668
+http\://repo.springsource.org/libs-release/.lastUpdated=1430617655980
+file\://D\:\\SCMS\\scms_new/../lib/.lastUpdated=1333587416925
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://repo1.maven.org/maven2/.lastUpdated=1376532595607
+file\://D\:\\SCMS\\scms-ws-support\\web/../lib/.error=
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact commons-lang\:commons-lang\:jar\:2.5 from/to all-repository (http\://repo1.maven.org/maven2/)\: Failed to look for file\: http\://repo1.maven.org/maven2/http\://repo1.maven.org/maven2/commons-lang/commons-lang/2.5/commons-lang-2.5.jar. Return code is\: 407
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.lastUpdated=1333587725631

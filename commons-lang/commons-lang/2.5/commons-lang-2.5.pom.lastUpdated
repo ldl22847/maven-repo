@@ -1,0 +1,20 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Dec 11 09:51:01 CST 2018
+file\://D\:\\SCMS\\scms_new/../lib/.lastUpdated=1333587060193
+file\://D\:\\SCMS\\scms-ws-support\\web/../lib/.error=
+default-http\://maven.oschina.net/content/groups/public/.lastUpdated=1529051359988
+http\://10.103.118.60\:8081/nexus/content/groups/public/.lastUpdated=1376532587713
+http\://183.56.130.248\:8081/nexus/content/groups/anymeeting-group/.lastUpdated=1544493061453
+http\://repo.maven.apache.org/maven2/.lastUpdated=1394112331412
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.lastUpdated=1333587065170
+https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases/.error=Could not transfer artifact commons-lang\:commons-lang\:pom\:2.5 from/to thirdparty-releases (https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases)\: java.net.ConnectException\: No route to host\: no further information
+https\://oss.sonatype.org/content/repositories/central-sync/.error=Could not transfer artifact commons-lang\:commons-lang\:pom\:2.5 from/to central-sync (https\://oss.sonatype.org/content/repositories/central-sync)\: java.net.ConnectException\: No route to host\: no further information
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases/.lastUpdated=1376579735583
+http\://maven.oschina.net/content/groups/public/.error=Could not transfer artifact commons-lang\:commons-lang\:pom\:2.5 from/to osc (http\://maven.oschina.net/content/groups/public/)\: java.net.ConnectException\: Connection refused\: no further information to http\://maven.oschina.net/content/groups/public/commons-lang/commons-lang/2.5/commons-lang-2.5.pom
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://repo1.maven.org/maven2/.lastUpdated=1376584838490
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-https\://oss.sonatype.org/content/repositories/central-sync/.lastUpdated=1376584838490
+8644f1c4da315a97db05ddf22bb48c2693eba1b0@10.101.1.6\:80>default-http\://search.maven.org/.lastUpdated=1376532694778
+file\://D\:\\SCMS\\scms-ws-support\\web/../lib/.lastUpdated=1376584838474
+file\://D\:\\SCMS\\scms_new/../lib/.error=
+http\://search.maven.org/.error=Could not transfer artifact commons-lang\:commons-lang\:pom\:2.5 from/to all-repository (http\://search.maven.org/)\: Failed to look for file\: http\://search.maven.org/http\://search.maven.org/commons-lang/commons-lang/2.5/commons-lang-2.5.pom. Return code is\: 407
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact commons-lang\:commons-lang\:pom\:2.5 from/to central (http\://repo1.maven.org/maven2)\: java.net.ConnectException\: No route to host\: no further information
