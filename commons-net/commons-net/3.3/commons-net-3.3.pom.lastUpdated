@@ -1,0 +1,14 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Dec 10 14:56:28 CST 2018
+http\://183.56.130.248\:8081/nexus/content/groups/anymeeting-group/.lastUpdated=1450679159188
+http\://maven.oschina.net/content/groups/public/.error=Could not transfer artifact commons-net\:commons-net\:pom\:3.3 from/to osc (http\://maven.oschina.net/content/groups/public/)\: java.net.ConnectException\: Connection refused\: no further information to http\://maven.oschina.net/content/groups/public/commons-net/commons-net/3.3/commons-net-3.3.pom
+default-http\://maven.oschina.net/content/groups/public/.lastUpdated=1529051328412
+http\://183.56.130.248\:8081/nexus/content/groups/video-group/.lastUpdated=1544424988339
+http\://repo.maven.apache.org/maven2/.lastUpdated=1397091657503
+http\://maven.springframework.org/release/.error=
+http\://repo.spring.io/release/.error=
+http\://maven.springframework.org/release/.lastUpdated=1397091620266
+http\://repo.springsource.org/release/.lastUpdated=1397091621593
+http\://repo.spring.io/release/.lastUpdated=1397091622146
+http\://repo.springsource.org/release/.error=
+https\://repository.apache.org/content/groups/staging/.lastUpdated=1397091623917

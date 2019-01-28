@@ -1,0 +1,22 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Apr 10 08:58:53 CST 2014
+https\://repository.sonatype.org/content/groups/forge/.lastUpdated=1397091531663
+http\://repository.codehaus.org/.error=
+https\://repository.jboss.org/nexus/content/repositories/central/.error=
+http\://repository.codehaus.org/.lastUpdated=1397091530056
+https\://repository.jboss.org/nexus/content/repositories/fs-maven2-all/.lastUpdated=1397091529550
+https\://repository.sonatype.org/content/shadows/centralm1/.lastUpdated=1397091533031
+http\://repo.maven.apache.org/maven2/.lastUpdated=1397091533514
+http\://repo.spring.io/release/.lastUpdated=1397091524804
+http\://repo.maven.apache.org/maven2/.error=
+http\://maven.springframework.org/release/.lastUpdated=1397091517353
+https\://repository.sonatype.org/content/shadows/centralm1/.error=
+https\://repository.apache.org/content/groups/staging/.error=
+https\://repository.jboss.org/nexus/content/repositories/central/.lastUpdated=1397091528258
+https\://repository.apache.org/content/groups/staging/.lastUpdated=1397091526875
+http\://repo.spring.io/release/.error=
+https\://repository.jboss.org/nexus/content/repositories/fs-maven2-all/.error=
+http\://repo.springsource.org/release/.lastUpdated=1397091524312
+https\://repository.sonatype.org/content/groups/forge/.error=
+http\://maven.springframework.org/release/.error=
+http\://repo.springsource.org/release/.error=

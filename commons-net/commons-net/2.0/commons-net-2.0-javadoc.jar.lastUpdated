@@ -1,0 +1,9 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Mar 14 00:53:16 CST 2014
+http\://repo.maven.apache.org/maven2/.lastUpdated=1394729596472
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-application/../lib/.error=
+default-http\://10.103.118.60\:8081/nexus/content/groups/public/.lastUpdated=1394729591107
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.error=
+http\://10.103.118.60\:8081/nexus/content/groups/public/.error=Could not transfer artifact commons-net\:commons-net\:jar\:javadoc\:2.0 from/to internal-repository (http\://10.103.118.60\:8081/nexus/content/groups/public/)\: connection timed out to http\://10.103.118.60\:8081/nexus/content/groups/public/commons-net/commons-net/2.0/commons-net-2.0-javadoc.jar
+file\://D\:\\dev\\ws\\eclipse-jee-4.3.1-win32\\Ies-Project\\ies-application/../lib/.lastUpdated=1394729581083
+http\://www.dayatang.com\:8080/nexus/content/groups/public/.lastUpdated=1394729591165
