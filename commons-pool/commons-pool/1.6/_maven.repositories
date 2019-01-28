@@ -1,6 +1,8 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Dec 31 02:20:55 CST 2015
+#Wed Dec 12 09:22:35 CST 2018
 commons-pool-1.6.pom>central=
+commons-pool-1.6.pom>sb-public=
+commons-pool-1.6.jar>sb-public=
 commons-pool-1.6.jar>anymeeting-repo=
 commons-pool-1.6.jar>central=
 commons-pool-1.6.pom>anymeeting-repo=
